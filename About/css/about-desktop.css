@@ -1,0 +1,3471 @@
+/* screen - about-desktop */
+
+.about-desktop {
+  background-color: var(--black);
+  height: 3466px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.about-desktop .bg-pattern-s7tS0I {
+  background-color: transparent;
+  height: 6051px;
+  left: -4px;
+  position: absolute;
+  top: 208px;
+  width: 1459px;
+}
+
+.about-desktop .ellipse-6-Vrujia {
+  background-color: transparent;
+  height: 1278px;
+  left: -25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1062px;
+  width: 1035px;
+}
+
+.about-desktop .group-8-Vrujia {
+  background-color: transparent;
+  height: 196px;
+  left: 600px;
+  opacity: 0.4;
+  position: absolute;
+  top: 7px;
+  transform: rotate(-44.33deg);
+  width: 101px;
+}
+
+.about-desktop .vector-4-NIN0P8 {
+  background-color: transparent;
+  height: 176px;
+  left: 2px;
+  position: absolute;
+  top: 9px;
+  transform: rotate(44.33deg);
+  width: 97px;
+}
+
+.about-desktop .ellipse-5-NIN0P8 {
+  background-color: var(--chicago);
+  border-radius: 3.26px;
+  height: 7px;
+  left: 95px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 7px;
+}
+
+.about-desktop .ellipse-7-NIN0P8 {
+  background-color: var(--chicago);
+  border-radius: 3.26px;
+  height: 7px;
+  left: 41px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 189px;
+  width: 7px;
+}
+
+.about-desktop .ellipse-6-NIN0P8 {
+  background-color: var(--chicago);
+  border-radius: 3.26px;
+  height: 7px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 129px;
+  width: 7px;
+}
+
+.about-desktop .group-14-Vrujia {
+  background-color: transparent;
+  height: 132px;
+  left: 1358px;
+  opacity: 0.4;
+  position: absolute;
+  top: 2503px;
+  transform: rotate(37.06deg);
+  width: 68px;
+}
+
+.about-desktop .vector-4-zF8YOs {
+  background-color: transparent;
+  height: 83px;
+  left: -20px;
+  position: absolute;
+  top: 24px;
+  transform: rotate(-37.06deg);
+  width: 109px;
+}
+
+.about-desktop .ellipse-5-zF8YOs {
+  background-color: var(--star-dust);
+  border-radius: 2.21px;
+  height: 4px;
+  left: 64px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.about-desktop .ellipse-7-zF8YOs {
+  background-color: var(--star-dust);
+  border-radius: 2.21px;
+  height: 4px;
+  left: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 128px;
+  width: 4px;
+}
+
+.about-desktop .ellipse-6-zF8YOs {
+  background-color: var(--star-dust);
+  border-radius: 2.21px;
+  height: 4px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 87px;
+  width: 4px;
+}
+
+.about-desktop .group-15-Vrujia {
+  background-color: transparent;
+  height: 125px;
+  left: 1347px;
+  opacity: 0.6;
+  position: absolute;
+  top: 2203px;
+  transform: rotate(148.68deg);
+  width: 66px;
+}
+
+.about-desktop .vector-4-ojYawE {
+  background-color: transparent;
+  height: 139px;
+  left: -26px;
+  position: absolute;
+  top: -7px;
+  transform: rotate(-148.68deg);
+  width: 119px;
+}
+
+.about-desktop .ellipse-5-ojYawE {
+  background-color: var(--masala);
+  border-radius: 2.08px;
+  height: 4px;
+  left: 62px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.about-desktop .ellipse-7-ojYawE {
+  background-color: var(--masala);
+  border-radius: 2.08px;
+  height: 4px;
+  left: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 121px;
+  width: 4px;
+}
+
+.about-desktop .ellipse-6-ojYawE {
+  background-color: var(--masala);
+  border-radius: 2.08px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 10px;
+  width: 4px;
+}
+
+.about-desktop .group-20-Vrujia {
+  background-color: transparent;
+  height: 258px;
+  left: 661px;
+  opacity: 0.6;
+  position: absolute;
+  top: 4785px;
+  transform: rotate(137.30deg);
+  width: 136px;
+}
+
+.about-desktop .vector-4-qT4x6z {
+  background-color: transparent;
+  height: 236px;
+  left: -30px;
+  position: absolute;
+  top: 10px;
+  transform: rotate(-137.30deg);
+  width: 198px;
+}
+
+.about-desktop .ellipse-5-qT4x6z {
+  background-color: var(--sonic-silver);
+  border-radius: 4.3px;
+  height: 9px;
+  left: 128px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 9px;
+}
+
+.about-desktop .ellipse-7-qT4x6z {
+  background-color: var(--sonic-silver);
+  border-radius: 4.3px;
+  height: 9px;
+  left: 57px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 250px;
+  width: 9px;
+}
+
+.about-desktop .ellipse-6-qT4x6z {
+  background-color: var(--sonic-silver);
+  border-radius: 4.3px;
+  height: 9px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 20px;
+  width: 9px;
+}
+
+.about-desktop .group-21-Vrujia {
+  background-color: transparent;
+  height: 200px;
+  left: 1228px;
+  opacity: 0.6;
+  position: absolute;
+  top: 5842px;
+  transform: rotate(-169.18deg);
+  width: 106px;
+}
+
+.about-desktop .vector-4-e28cWS {
+  background-color: transparent;
+  height: 185px;
+  left: 3px;
+  position: absolute;
+  top: 7px;
+  transform: rotate(169.18deg);
+  width: 101px;
+}
+
+.about-desktop .ellipse-5-e28cWS {
+  background-color: var(--sonic-silver);
+  border-radius: 3.34px;
+  height: 7px;
+  left: 99px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+
+.about-desktop .ellipse-7-e28cWS {
+  background-color: var(--sonic-silver);
+  border-radius: 3.34px;
+  height: 7px;
+  left: 44px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 194px;
+  width: 7px;
+}
+
+.about-desktop .ellipse-6-e28cWS {
+  background-color: var(--sonic-silver);
+  border-radius: 3.34px;
+  height: 7px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 15px;
+  width: 7px;
+}
+
+.about-desktop .group-12-Vrujia {
+  background-color: transparent;
+  height: 97px;
+  left: 1117px;
+  opacity: 0.6;
+  position: absolute;
+  top: 670px;
+  transform: rotate(-101.93deg);
+  width: 51px;
+}
+
+.about-desktop .vector-4-jIWWYO {
+  background-color: transparent;
+  height: 49px;
+  left: 415px;
+  position: absolute;
+  top: 2303px;
+  transform: rotate(101.93deg);
+  width: 90px;
+}
+
+.about-desktop .ellipse-5-jIWWYO {
+  background-color: var(--tundora);
+  border-radius: 1.61px;
+  height: 3px;
+  left: 523px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2262px;
+  width: 3px;
+}
+
+.about-desktop .ellipse-7-jIWWYO {
+  background-color: var(--tundora);
+  border-radius: 1.61px;
+  height: 3px;
+  left: 460px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2187px;
+  width: 3px;
+}
+
+.about-desktop .ellipse-6-jIWWYO {
+  background-color: var(--tundora);
+  border-radius: 1.61px;
+  height: 3px;
+  left: 476px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2275px;
+  width: 3px;
+}
+
+.about-desktop .ellipse-45-Vrujia {
+  background-color: var(--fuscous-gray);
+  border-radius: 3.91px;
+  height: 8px;
+  left: 1254px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1714px;
+  width: 8px;
+}
+
+.about-desktop .ellipse-46-Vrujia {
+  background-color: var(--storm-dust-2);
+  border-radius: 6.51px;
+  height: 13px;
+  left: 1155px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1647px;
+  width: 13px;
+}
+
+.about-desktop .ellipse-47-Vrujia {
+  background-color: var(--fuscous-gray);
+  border-radius: 3.91px;
+  height: 8px;
+  left: 484px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2047px;
+  width: 8px;
+}
+
+.about-desktop .ellipse-48-Vrujia {
+  background-color: var(--shark);
+  border-radius: 6.51px;
+  height: 13px;
+  left: 524px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2079px;
+  width: 13px;
+}
+
+.about-desktop .ellipse-8-Vrujia {
+  background-color: transparent;
+  height: 830px;
+  left: 640px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1692px;
+  width: 675px;
+}
+
+.about-desktop .ellipse-7-Vrujia {
+  background-color: transparent;
+  height: 1572px;
+  left: 107px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1160px;
+  width: 1270px;
+}
+
+.about-desktop .group-17-Vrujia {
+  background-color: transparent;
+  height: 125px;
+  left: 528px;
+  opacity: 0.6;
+  position: absolute;
+  top: 1508px;
+  transform: rotate(78.17deg);
+  width: 66px;
+}
+
+.about-desktop .vector-4-OyOsW5 {
+  background-color: transparent;
+  height: 87px;
+  left: -34px;
+  position: absolute;
+  top: 19px;
+  transform: rotate(-78.17deg);
+  width: 134px;
+}
+
+.about-desktop .ellipse-5-OyOsW5 {
+  background-color: var(--sonic-silver);
+  border-radius: 2.08px;
+  height: 4px;
+  left: 62px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.about-desktop .ellipse-7-OyOsW5 {
+  background-color: var(--sonic-silver);
+  border-radius: 2.08px;
+  height: 4px;
+  left: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 121px;
+  width: 4px;
+}
+
+.about-desktop .ellipse-6-OyOsW5 {
+  background-color: var(--sonic-silver);
+  border-radius: 2.08px;
+  height: 4px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 10px;
+  width: 4px;
+}
+
+.about-desktop .group-19-Vrujia {
+  background-color: transparent;
+  height: 114px;
+  left: 474px;
+  opacity: 0.6;
+  position: absolute;
+  top: 1082px;
+  transform: rotate(-117.50deg);
+  width: 60px;
+}
+
+.about-desktop .vector-4-ipHlUy {
+  background-color: transparent;
+  height: 71px;
+  left: -28px;
+  position: absolute;
+  top: 21px;
+  transform: rotate(117.50deg);
+  width: 116px;
+}
+
+.about-desktop .ellipse-5-ipHlUy {
+  background-color: var(--sonic-silver);
+  border-radius: 1.9px;
+  height: 4px;
+  left: 56px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.about-desktop .ellipse-7-ipHlUy {
+  background-color: var(--sonic-silver);
+  border-radius: 1.9px;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 110px;
+  width: 4px;
+}
+
+.about-desktop .ellipse-6-ipHlUy {
+  background-color: var(--sonic-silver);
+  border-radius: 1.9px;
+  height: 4px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 4px;
+}
+
+.about-desktop .group-18-Vrujia {
+  background-color: transparent;
+  height: 187px;
+  left: 976px;
+  opacity: 0.6;
+  position: absolute;
+  top: 490px;
+  transform: rotate(133.44deg);
+  width: 99px;
+}
+
+.about-desktop .vector-4-gpwlGs {
+  background-color: transparent;
+  height: 195px;
+  left: -50px;
+  position: absolute;
+  top: -5px;
+  transform: rotate(-133.44deg);
+  width: 199px;
+}
+
+.about-desktop .ellipse-5-gpwlGs {
+  background-color: var(--sonic-silver);
+  border-radius: 3.11px;
+  height: 6px;
+  left: 92px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 6px;
+}
+
+.about-desktop .ellipse-7-gpwlGs {
+  background-color: var(--sonic-silver);
+  border-radius: 3.11px;
+  height: 6px;
+  left: 41px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 181px;
+  width: 6px;
+}
+
+.about-desktop .ellipse-6-gpwlGs {
+  background-color: var(--sonic-silver);
+  border-radius: 3.11px;
+  height: 6px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 6px;
+}
+
+.about-desktop .group-16-Vrujia {
+  background-color: transparent;
+  height: 132px;
+  left: 337px;
+  opacity: 0.4;
+  position: absolute;
+  top: 2606px;
+  transform: rotate(-33.44deg);
+  width: 68px;
+}
+
+.about-desktop .vector-4-AlGb7I {
+  background-color: transparent;
+  height: 129px;
+  left: 10px;
+  position: absolute;
+  top: 1px;
+  transform: rotate(33.44deg);
+  width: 48px;
+}
+
+.about-desktop .ellipse-5-AlGb7I {
+  background-color: var(--gunsmoke);
+  border-radius: 2.21px;
+  height: 4px;
+  left: 64px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.about-desktop .ellipse-7-AlGb7I {
+  background-color: var(--gunsmoke);
+  border-radius: 2.21px;
+  height: 4px;
+  left: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 128px;
+  width: 4px;
+}
+
+.about-desktop .ellipse-6-AlGb7I {
+  background-color: var(--gunsmoke);
+  border-radius: 2.21px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 87px;
+  width: 4px;
+}
+
+.about-desktop .who-we-are-s7tS0I {
+  background-color: transparent;
+  height: 159px;
+  left: 0px;
+  position: absolute;
+  top: 279px;
+  width: 1444px;
+}
+
+.about-desktop .who-we-are-mxeIWL {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 1440px;
+}
+
+.about-desktop .at-viventus-we-g-their-capital-mxeIWL {
+  background-color: transparent;
+  height: auto;
+  left: 273px;
+  letter-spacing: 0.00px;
+  line-height: 25.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 81px;
+  width: 894px;
+}
+
+.about-desktop .our-values-s7tS0I {
+  background-color: transparent;
+  height: 476px;
+  left: 2px;
+  position: absolute;
+  top: 792px;
+  width: 1438px;
+}
+
+.about-desktop .our-values-i6oGTI {
+  background-color: transparent;
+  height: 91px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1442px;
+}
+
+.about-desktop .our-values-aly3GL {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 1438px;
+}
+
+.about-desktop .making-cryptocu-very-day-people-aly3GL {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 71px;
+  width: 1438px;
+}
+
+.about-desktop .for-the-people-i6oGTI {
+  background-color: transparent;
+  height: 336px;
+  left: 71px;
+  position: absolute;
+  top: 140px;
+  width: 1315px;
+}
+
+.about-desktop .rectangle-136-ZbCx1U {
+  background-color: #0e0e0e;
+  height: 336px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1311px;
+}
+
+.about-desktop .for-the-people-ZbCx1U {
+  background-color: transparent;
+  height: auto;
+  left: 123px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 161px;
+  width: auto;
+}
+
+.about-desktop .making-cryptocu-enced-investors-ZbCx1U {
+  background-color: transparent;
+  height: auto;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 20.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 210px;
+  width: 305px;
+}
+
+.about-desktop .group-white-1-ZbCx1U {
+  background-color: transparent;
+  height: 92px;
+  left: 146px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 92px;
+}
+
+.about-desktop .access-to-financial-freedome-i6oGTI {
+  background-color: transparent;
+  height: 228px;
+  left: 565px;
+  position: absolute;
+  top: 185px;
+  width: 309px;
+}
+
+.about-desktop .access-to-financial-freedom-ZzMaUz {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 106px;
+  width: auto;
+}
+
+.about-desktop .viventus-focuse-currency-market-ZzMaUz {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20.9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 165px;
+  width: 305px;
+}
+
+.about-desktop .dollar-white-1-ZzMaUz {
+  background-color: transparent;
+  height: 59px;
+  left: 123px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 59px;
+}
+
+.about-desktop .trust-i6oGTI {
+  background-color: transparent;
+  height: 240px;
+  left: 1020px;
+  position: absolute;
+  top: 173px;
+  width: 309px;
+}
+
+.about-desktop .trust-0zUSps {
+  background-color: transparent;
+  height: auto;
+  left: 129px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 118px;
+  width: auto;
+}
+
+.about-desktop .viventus-does-n-of-their-assets-0zUSps {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20.9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 177px;
+  width: 305px;
+}
+
+.about-desktop .honesty-white-1-0zUSps {
+  background-color: transparent;
+  height: 84px;
+  left: 112px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 84px;
+}
+
+.about-desktop .team-s7tS0I {
+  background-color: transparent;
+  height: 549px;
+  left: 2px;
+  position: absolute;
+  top: 1504px;
+  width: 1442px;
+}
+
+.about-desktop .meet-the-team-nx1Np3 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 1438px;
+}
+
+.about-desktop .dedicated-in-pr-best-experience-nx1Np3 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  width: 1438px;
+}
+
+.about-desktop .nathan-nx1Np3 {
+  background-color: transparent;
+  height: 334px;
+  left: 592px;
+  position: absolute;
+  top: 194px;
+  width: 254px;
+}
+
+.about-desktop .x3-5-aXKJC1 {
+  background-color: transparent;
+  height: 252px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 252px;
+}
+
+.about-desktop .co-founder-lead-nathan-martell-aXKJC1 {
+  background-color: transparent;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 20.9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 292px;
+  width: auto;
+}
+
+.about-desktop .span0-fbRWg1 {
+}
+
+.about-desktop .span1-fbRWg1 {
+}
+
+.about-desktop .will-nx1Np3 {
+  background-color: transparent;
+  height: 355px;
+  left: 183px;
+  position: absolute;
+  top: 194px;
+  width: 255px;
+}
+
+.about-desktop .x5-1-F2sLP6 {
+  background-color: transparent;
+  height: 252px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 253px;
+}
+
+.about-desktop .co-founder-comm-ger-will-lupton-F2sLP6 {
+  background-color: transparent;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 20.9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 292px;
+  width: auto;
+}
+
+.about-desktop .span0-ZVl8dn {
+}
+
+.about-desktop .span1-ZVl8dn {
+}
+
+.about-desktop .ying-nx1Np3 {
+  background-color: transparent;
+  height: 334px;
+  left: 1000px;
+  position: absolute;
+  top: 194px;
+  width: 254px;
+}
+
+.about-desktop .x1-46-TRfpfO {
+  background-color: transparent;
+  height: 252px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 252px;
+}
+
+.about-desktop .co-founder-designer-ying-z-TRfpfO {
+  background-color: transparent;
+  height: auto;
+  left: 53px;
+  letter-spacing: 0.00px;
+  line-height: 20.9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 292px;
+  width: auto;
+}
+
+.about-desktop .span0-YX13gD {
+}
+
+.about-desktop .span1-YX13gD {
+}
+
+.about-desktop .footer-s7tS0I {
+  background-color: transparent;
+  height: 469px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2997px;
+  width: 1440px;
+}
+
+.about-desktop .term-of-service-7J50tU {
+  background-color: transparent;
+  height: 24px;
+  left: 1014px;
+  position: absolute;
+  top: 413px;
+  width: 272px;
+}
+
+.about-desktop .term-of-service-TrcWDg {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about-desktop .line-44-TrcWDg {
+  background-color: transparent;
+  height: 24px;
+  left: 142px;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.about-desktop .privacy-policy-TrcWDg {
+  background-color: transparent;
+  height: auto;
+  left: 163px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about-desktop .viventus-all-rights-reserved-7J50tU {
+  background-color: transparent;
+  height: auto;
+  left: 165px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 413px;
+  white-space: nowrap;
+  width: 405px;
+}
+
+.about-desktop .line-5-7J50tU {
+  background-color: transparent;
+  height: 1px;
+  left: 165px;
+  position: absolute;
+  top: 380px;
+  width: 1110px;
+}
+
+.about-desktop .socmed-7J50tU {
+  background-color: transparent;
+  height: 24px;
+  left: 164px;
+  position: absolute;
+  top: 229px;
+  width: 80px;
+}
+
+.about-desktop .logo-facebook-LOYYWo {
+  background-color: transparent;
+  height: 24px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.about-desktop .logo-instagram-LOYYWo {
+  background-color: transparent;
+  height: 24px;
+  left: 55px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.about-desktop .twitter-logo-1-7J50tU {
+  background-color: transparent;
+  height: 20px;
+  left: 288px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 230px;
+  width: 23px;
+}
+
+.about-desktop .subscripton-7J50tU {
+  background-color: transparent;
+  height: 183px;
+  left: 921px;
+  position: absolute;
+  top: 113px;
+  width: 358px;
+}
+
+.about-desktop .form-Hy2jTu {
+  background-color: var(--tuna-2);
+  border-radius: 100px;
+  height: 63px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 120px;
+  width: 354px;
+}
+
+.about-desktop .enter-you-email-ress-i250423947-X5Gist {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: 228px;
+}
+
+.about-desktop .button-X5Gist {
+  background-color: transparent;
+  border-radius: 100px;
+  height: 47px;
+  left: 262px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 84px;
+}
+
+.about-desktop .get-started-i250413413472208-ACKiXO {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about-desktop .subscribe-to-ge-ge-and-products-Hy2jTu {
+  background-color: transparent;
+  color: #a3a3a3;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 48px;
+  width: 354px;
+}
+
+.about-desktop .submit-for-updates-Hy2jTu {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about-desktop .quick-link-7J50tU {
+  background-color: transparent;
+  height: 168px;
+  left: 543px;
+  position: absolute;
+  top: 113px;
+  width: 262px;
+}
+
+.about-desktop .link-list-XFhjJZ {
+  background-color: transparent;
+  height: 120px;
+  left: 0px;
+  position: absolute;
+  top: 48px;
+  width: 260px;
+}
+
+.about-desktop .link-1-e6yjRc {
+  background-color: transparent;
+  height: 120px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 194px;
+}
+
+.about-desktop .home-J0frlL {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about-desktop .technology-J0frlL {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 48px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about-desktop .about-J0frlL {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 96px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about-desktop .link-2-e6yjRc {
+  background-color: transparent;
+  height: 120px;
+  left: 194px;
+  position: absolute;
+  top: 0px;
+  width: 66px;
+}
+
+.about-desktop .sign-up-PBskZW {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about-desktop .login-PBskZW {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 48px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about-desktop .services-PBskZW {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 96px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about-desktop .quick-links-XFhjJZ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about-desktop .logo-7J50tU {
+  background-color: transparent;
+  height: 59px;
+  left: 164px;
+  position: absolute;
+  top: 130px;
+  width: 180px;
+}
+
+.about-desktop .ai-powered-ci8xJa {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about-desktop .logo-ci8xJa {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 176px;
+}
+
+.about-desktop .contact-s7tS0I {
+  background-color: transparent;
+  height: 573px;
+  left: 197px;
+  position: absolute;
+  top: 2335px;
+  width: 1049px;
+}
+
+.about-desktop .contact-form-WzQ7pE {
+  background-color: transparent;
+  height: 533px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1051px;
+}
+
+.about-desktop .lets-talk-about-quiries-support-5ibzaE {
+  background-color: transparent;
+  color: transparent;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.about-desktop .span0-XDEdjY {
+  color: var(--white);
+  font-style: normal;
+}
+
+.about-desktop .span1-XDEdjY {
+  color: var(--white);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.about-desktop .span2-XDEdjY {
+  color: #6f6f6f;
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 67.9px;
+}
+
+.about-desktop .have-any-questi-oon-as-possible-5ibzaE {
+  background-color: transparent;
+  height: auto;
+  left: 368px;
+  letter-spacing: 0.00px;
+  line-height: 23.3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 679px;
+}
+
+.about-desktop .first-name-5ibzaE {
+  background-color: transparent;
+  height: 80px;
+  left: 368px;
+  position: absolute;
+  top: 130px;
+  width: 279px;
+}
+
+.about-desktop .rectangle-131-O0hAgU {
+  background-color: var(--woodsmoke);
+  height: 57px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 23px;
+  width: 277px;
+}
+
+.about-desktop .first-name-O0hAgU {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.about-desktop .first-name-NZo43x {
+  background-color: transparent;
+  height: 80px;
+  left: 718px;
+  position: absolute;
+  top: 130px;
+  width: 279px;
+}
+
+.about-desktop .rectangle-131-bcHefb {
+  background-color: var(--woodsmoke);
+  height: 57px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 23px;
+  width: 277px;
+}
+
+.about-desktop .last-name-bcHefb {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.about-desktop .first-name-nxPbeb {
+  background-color: transparent;
+  height: 80px;
+  left: 368px;
+  position: absolute;
+  top: 260px;
+  width: 279px;
+}
+
+.about-desktop .rectangle-131-fYHGtm {
+  background-color: var(--woodsmoke);
+  height: 57px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 23px;
+  width: 277px;
+}
+
+.about-desktop .email-fYHGtm {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.about-desktop .first-name-xZLG46 {
+  background-color: transparent;
+  height: 80px;
+  left: 718px;
+  position: absolute;
+  top: 260px;
+  width: 279px;
+}
+
+.about-desktop .rectangle-131-hpK638 {
+  background-color: var(--woodsmoke);
+  height: 57px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 23px;
+  width: 277px;
+}
+
+.about-desktop .subject-title-hpK638 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.about-desktop .message-5ibzaE {
+  background-color: transparent;
+  height: 143px;
+  left: 368px;
+  position: absolute;
+  top: 390px;
+  width: 629px;
+}
+
+.about-desktop .rectangle-135-qMXm6M {
+  background-color: var(--woodsmoke);
+  height: 120px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 23px;
+  width: 627px;
+}
+
+.about-desktop .message-qMXm6M {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.about-desktop .send-message-WzQ7pE {
+  background-color: transparent;
+  height: auto;
+  left: 878px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 573px;
+  width: auto;
+}
+
+.about-desktop .header-s7tS0I {
+  background-color: transparent;
+  height: 148px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.about-desktop .nav-bar-JDUHel {
+  background-color: transparent;
+  height: 42px;
+  left: 102px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 67px;
+  width: 1240px;
+}
+
+.about-desktop .sign-up-QEaxcM {
+  background-color: transparent;
+  height: 42px;
+  left: 1142px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 98px;
+}
+
+.about-desktop .sign-up-RMpsp0 {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 98px;
+}
+
+.about-desktop .sign-up-HllT5L {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: auto;
+}
+
+.about-desktop .login-QEaxcM {
+  background-color: transparent;
+  height: 42px;
+  left: 1029px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 98px;
+}
+
+.about-desktop .login-coxQO5 {
+  background-color: var(--heavy-metal);
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 98px;
+}
+
+.about-desktop .login-16VoVd {
+  background-color: transparent;
+  height: auto;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: auto;
+}
+
+.about-desktop .services-QEaxcM {
+  background-color: transparent;
+  height: auto;
+  left: 596px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: auto;
+}
+
+.about-desktop .about-QEaxcM {
+  background-color: transparent;
+  height: auto;
+  left: 731px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: auto;
+}
+
+.about-desktop .technology-QEaxcM {
+  background-color: transparent;
+  height: auto;
+  left: 438px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: auto;
+}
+
+.about-desktop .logo-QEaxcM {
+  background-color: transparent;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 176px;
+}
+/* screen - ipad-pro-11-2 */
+
+.ipad-pro-11-2 {
+  background-color: var(--black);
+  height: 4626px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 834px;
+}
+
+.ipad-pro-11-2 .bg-pattern-jxVE5C {
+  background-color: transparent;
+  height: 4470px;
+  left: -128px;
+  position: absolute;
+  top: 44px;
+  width: 1078px;
+}
+
+.ipad-pro-11-2 .ellipse-6-H99kPq {
+  background-color: transparent;
+  height: 957px;
+  left: -24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 778px;
+  width: 776px;
+}
+
+.ipad-pro-11-2 .group-8-H99kPq {
+  background-color: transparent;
+  height: 145px;
+  left: 444px;
+  opacity: 0.4;
+  position: absolute;
+  top: 6px;
+  transform: rotate(-44.33deg);
+  width: 75px;
+}
+
+.ipad-pro-11-2 .vector-4-K0eP2O {
+  background-color: transparent;
+  height: 152px;
+  left: -39px;
+  position: absolute;
+  top: -4px;
+  transform: rotate(44.33deg);
+  width: 152px;
+}
+
+.ipad-pro-11-2 .ellipse-5-K0eP2O {
+  background-color: var(--chicago);
+  border-radius: 2.41px;
+  height: 5px;
+  left: 70px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+
+.ipad-pro-11-2 .ellipse-7-K0eP2O {
+  background-color: var(--chicago);
+  border-radius: 2.41px;
+  height: 5px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 140px;
+  width: 5px;
+}
+
+.ipad-pro-11-2 .ellipse-6-K0eP2O {
+  background-color: var(--chicago);
+  border-radius: 2.41px;
+  height: 5px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 95px;
+  width: 5px;
+}
+
+.ipad-pro-11-2 .group-14-H99kPq {
+  background-color: transparent;
+  height: 98px;
+  left: 1003px;
+  opacity: 0.4;
+  position: absolute;
+  top: 1849px;
+  transform: rotate(37.06deg);
+  width: 51px;
+}
+
+.ipad-pro-11-2 .vector-4-pCDGkg {
+  background-color: transparent;
+  height: 107px;
+  left: -23px;
+  position: absolute;
+  top: -5px;
+  transform: rotate(-37.06deg);
+  width: 97px;
+}
+
+.ipad-pro-11-2 .ellipse-5-pCDGkg {
+  background-color: var(--star-dust);
+  border-radius: 1.63px;
+  height: 3px;
+  left: 47px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 3px;
+}
+
+.ipad-pro-11-2 .ellipse-7-pCDGkg {
+  background-color: var(--star-dust);
+  border-radius: 1.63px;
+  height: 3px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 95px;
+  width: 3px;
+}
+
+.ipad-pro-11-2 .ellipse-6-pCDGkg {
+  background-color: var(--star-dust);
+  border-radius: 1.63px;
+  height: 3px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 64px;
+  width: 3px;
+}
+
+.ipad-pro-11-2 .group-15-H99kPq {
+  background-color: transparent;
+  height: 92px;
+  left: 995px;
+  opacity: 0.6;
+  position: absolute;
+  top: 1627px;
+  transform: rotate(148.68deg);
+  width: 49px;
+}
+
+.ipad-pro-11-2 .vector-4-7VQ8CG {
+  background-color: transparent;
+  height: 103px;
+  left: -19px;
+  position: absolute;
+  top: -6px;
+  transform: rotate(-148.68deg);
+  width: 88px;
+}
+
+.ipad-pro-11-2 .ellipse-5-7VQ8CG {
+  background-color: var(--masala);
+  border-radius: 1.54px;
+  height: 3px;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 3px;
+}
+
+.ipad-pro-11-2 .ellipse-7-7VQ8CG {
+  background-color: var(--masala);
+  border-radius: 1.54px;
+  height: 3px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 89px;
+  width: 3px;
+}
+
+.ipad-pro-11-2 .ellipse-6-7VQ8CG {
+  background-color: var(--masala);
+  border-radius: 1.54px;
+  height: 3px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 3px;
+}
+
+.ipad-pro-11-2 .group-20-H99kPq {
+  background-color: transparent;
+  height: 191px;
+  left: 488px;
+  opacity: 0.6;
+  position: absolute;
+  top: 3535px;
+  transform: rotate(137.30deg);
+  width: 101px;
+}
+
+.ipad-pro-11-2 .vector-4-FEJyxq {
+  background-color: transparent;
+  height: 203px;
+  left: -48px;
+  position: absolute;
+  top: -7px;
+  transform: rotate(-137.30deg);
+  width: 197px;
+}
+
+.ipad-pro-11-2 .ellipse-5-FEJyxq {
+  background-color: var(--sonic-silver);
+  border-radius: 3.18px;
+  height: 6px;
+  left: 94px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 6px;
+}
+
+.ipad-pro-11-2 .ellipse-7-FEJyxq {
+  background-color: var(--sonic-silver);
+  border-radius: 3.18px;
+  height: 6px;
+  left: 42px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 184px;
+  width: 6px;
+}
+
+.ipad-pro-11-2 .ellipse-6-FEJyxq {
+  background-color: var(--sonic-silver);
+  border-radius: 3.18px;
+  height: 6px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 15px;
+  width: 6px;
+}
+
+.ipad-pro-11-2 .group-21-H99kPq {
+  background-color: transparent;
+  height: 148px;
+  left: 907px;
+  opacity: 0.6;
+  position: absolute;
+  top: 4316px;
+  transform: rotate(-169.18deg);
+  width: 78px;
+}
+
+.ipad-pro-11-2 .vector-4-ND8g3x {
+  background-color: transparent;
+  height: 158px;
+  left: -11px;
+  position: absolute;
+  top: -5px;
+  transform: rotate(169.18deg);
+  width: 100px;
+}
+
+.ipad-pro-11-2 .ellipse-5-ND8g3x {
+  background-color: var(--sonic-silver);
+  border-radius: 2.47px;
+  height: 5px;
+  left: 73px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+
+.ipad-pro-11-2 .ellipse-7-ND8g3x {
+  background-color: var(--sonic-silver);
+  border-radius: 2.47px;
+  height: 5px;
+  left: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 143px;
+  width: 5px;
+}
+
+.ipad-pro-11-2 .ellipse-6-ND8g3x {
+  background-color: var(--sonic-silver);
+  border-radius: 2.47px;
+  height: 5px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 11px;
+  width: 5px;
+}
+
+.ipad-pro-11-2 .group-12-H99kPq {
+  background-color: transparent;
+  height: 71px;
+  left: 825px;
+  opacity: 0.6;
+  position: absolute;
+  top: 495px;
+  transform: rotate(-101.93deg);
+  width: 38px;
+}
+
+.ipad-pro-11-2 .vector-4-gWCZzY {
+  background-color: transparent;
+  height: 50px;
+  left: 249px;
+  position: absolute;
+  top: 1449px;
+  transform: rotate(101.93deg);
+  width: 78px;
+}
+
+.ipad-pro-11-2 .ellipse-5-gWCZzY {
+  background-color: var(--tundora);
+  border-radius: 1.19px;
+  height: 2px;
+  left: 334px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1426px;
+  width: 2px;
+}
+
+.ipad-pro-11-2 .ellipse-7-gWCZzY {
+  background-color: var(--tundora);
+  border-radius: 1.19px;
+  height: 2px;
+  left: 288px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1371px;
+  width: 2px;
+}
+
+.ipad-pro-11-2 .ellipse-6-gWCZzY {
+  background-color: var(--tundora);
+  border-radius: 1.19px;
+  height: 2px;
+  left: 300px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1436px;
+  width: 2px;
+}
+
+.ipad-pro-11-2 .ellipse-45-H99kPq {
+  background-color: var(--fuscous-gray);
+  border-radius: 2.89px;
+  height: 6px;
+  left: 927px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1266px;
+  width: 6px;
+}
+
+.ipad-pro-11-2 .ellipse-46-H99kPq {
+  background-color: var(--storm-dust-2);
+  border-radius: 4.81px;
+  height: 10px;
+  left: 854px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1217px;
+  width: 10px;
+}
+
+.ipad-pro-11-2 .ellipse-47-H99kPq {
+  background-color: var(--fuscous-gray);
+  border-radius: 2.89px;
+  height: 6px;
+  left: 357px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1512px;
+  width: 6px;
+}
+
+.ipad-pro-11-2 .ellipse-48-H99kPq {
+  background-color: var(--shark);
+  border-radius: 4.81px;
+  height: 10px;
+  left: 387px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1536px;
+  width: 10px;
+}
+
+.ipad-pro-11-2 .ellipse-8-H99kPq {
+  background-color: transparent;
+  height: 627px;
+  left: 466px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1243px;
+  width: 512px;
+}
+
+.ipad-pro-11-2 .ellipse-7-H99kPq {
+  background-color: transparent;
+  height: 1175px;
+  left: 72px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 850px;
+  width: 952px;
+}
+
+.ipad-pro-11-2 .group-17-H99kPq {
+  background-color: transparent;
+  height: 92px;
+  left: 390px;
+  opacity: 0.6;
+  position: absolute;
+  top: 1114px;
+  transform: rotate(78.17deg);
+  width: 49px;
+}
+
+.ipad-pro-11-2 .vector-4-FkGrSg {
+  background-color: transparent;
+  height: 65px;
+  left: -26px;
+  position: absolute;
+  top: 13px;
+  transform: rotate(-78.17deg);
+  width: 101px;
+}
+
+.ipad-pro-11-2 .ellipse-5-FkGrSg {
+  background-color: var(--sonic-silver);
+  border-radius: 1.54px;
+  height: 3px;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 3px;
+}
+
+.ipad-pro-11-2 .ellipse-7-FkGrSg {
+  background-color: var(--sonic-silver);
+  border-radius: 1.54px;
+  height: 3px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 89px;
+  width: 3px;
+}
+
+.ipad-pro-11-2 .ellipse-6-FkGrSg {
+  background-color: var(--sonic-silver);
+  border-radius: 1.54px;
+  height: 3px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 3px;
+}
+
+.ipad-pro-11-2 .group-19-H99kPq {
+  background-color: transparent;
+  height: 84px;
+  left: 350px;
+  opacity: 0.6;
+  position: absolute;
+  top: 799px;
+  transform: rotate(-117.50deg);
+  width: 44px;
+}
+
+.ipad-pro-11-2 .vector-4-yQY6fk {
+  background-color: transparent;
+  height: 77px;
+  left: -25px;
+  position: absolute;
+  top: 3px;
+  transform: rotate(117.50deg);
+  width: 95px;
+}
+
+.ipad-pro-11-2 .ellipse-5-yQY6fk {
+  background-color: var(--sonic-silver);
+  border-radius: 1.4px;
+  height: 3px;
+  left: 42px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 3px;
+}
+
+.ipad-pro-11-2 .ellipse-7-yQY6fk {
+  background-color: var(--sonic-silver);
+  border-radius: 1.4px;
+  height: 3px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 81px;
+  width: 3px;
+}
+
+.ipad-pro-11-2 .ellipse-6-yQY6fk {
+  background-color: var(--sonic-silver);
+  border-radius: 1.4px;
+  height: 3px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 3px;
+}
+
+.ipad-pro-11-2 .group-18-H99kPq {
+  background-color: transparent;
+  height: 138px;
+  left: 721px;
+  opacity: 0.6;
+  position: absolute;
+  top: 362px;
+  transform: rotate(133.44deg);
+  width: 73px;
+}
+
+.ipad-pro-11-2 .vector-4-ty3Q4J {
+  background-color: transparent;
+  height: 144px;
+  left: -37px;
+  position: absolute;
+  top: -3px;
+  transform: rotate(-133.44deg);
+  width: 147px;
+}
+
+.ipad-pro-11-2 .ellipse-5-ty3Q4J {
+  background-color: var(--sonic-silver);
+  border-radius: 2.3px;
+  height: 5px;
+  left: 68px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 5px;
+}
+
+.ipad-pro-11-2 .ellipse-7-ty3Q4J {
+  background-color: var(--sonic-silver);
+  border-radius: 2.3px;
+  height: 5px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 133px;
+  width: 5px;
+}
+
+.ipad-pro-11-2 .ellipse-6-ty3Q4J {
+  background-color: var(--sonic-silver);
+  border-radius: 2.3px;
+  height: 5px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 11px;
+  width: 5px;
+}
+
+.ipad-pro-11-2 .group-16-H99kPq {
+  background-color: transparent;
+  height: 98px;
+  left: 249px;
+  opacity: 0.4;
+  position: absolute;
+  top: 1925px;
+  transform: rotate(-33.44deg);
+  width: 51px;
+}
+
+.ipad-pro-11-2 .vector-4-11OCIX {
+  background-color: transparent;
+  height: 108px;
+  left: -22px;
+  position: absolute;
+  top: -5px;
+  transform: rotate(33.44deg);
+  width: 94px;
+}
+
+.ipad-pro-11-2 .ellipse-5-11OCIX {
+  background-color: var(--gunsmoke);
+  border-radius: 1.63px;
+  height: 3px;
+  left: 47px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 3px;
+}
+
+.ipad-pro-11-2 .ellipse-7-11OCIX {
+  background-color: var(--gunsmoke);
+  border-radius: 1.63px;
+  height: 3px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 95px;
+  width: 3px;
+}
+
+.ipad-pro-11-2 .ellipse-6-11OCIX {
+  background-color: var(--gunsmoke);
+  border-radius: 1.63px;
+  height: 3px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 64px;
+  width: 3px;
+}
+
+.ipad-pro-11-2 .nav-bar-jxVE5C {
+  background-color: transparent;
+  height: 149px;
+  left: 36px;
+  position: absolute;
+  top: -26px;
+  width: 743px;
+}
+
+.ipad-pro-11-2 .logo-awCGhC {
+  background-color: transparent;
+  height: 149px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 149px;
+}
+
+.ipad-pro-11-2 .burger-menu-awCGhC {
+  background-color: transparent;
+  height: 8px;
+  left: 725px;
+  position: absolute;
+  top: 70px;
+  width: 18px;
+}
+
+.ipad-pro-11-2 .line-56-pemIeU {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 18px;
+}
+
+.ipad-pro-11-2 .line-57-pemIeU {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 4px;
+  width: 18px;
+}
+
+.ipad-pro-11-2 .line-58-pemIeU {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 8px;
+  width: 18px;
+}
+
+.ipad-pro-11-2 .who-we-are-jxVE5C {
+  background-color: transparent;
+  height: 211px;
+  left: 0px;
+  position: absolute;
+  top: 209px;
+  width: 838px;
+}
+
+.ipad-pro-11-2 .who-we-are-dt31Lb {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 834px;
+}
+
+.ipad-pro-11-2 .at-viventus-we-g-their-capital-dt31Lb {
+  background-color: transparent;
+  height: auto;
+  left: 158px;
+  letter-spacing: 0.00px;
+  line-height: 25.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 81px;
+  width: 518px;
+}
+
+.ipad-pro-11-2 .our-values-jxVE5C {
+  background-color: transparent;
+  height: 787px;
+  left: -302px;
+  position: absolute;
+  top: 726px;
+  width: 1438px;
+}
+
+.ipad-pro-11-2 .our-values-uxmrrp {
+  background-color: transparent;
+  height: 91px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1442px;
+}
+
+.ipad-pro-11-2 .our-values-FHe1la {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 1438px;
+}
+
+.ipad-pro-11-2 .making-cryptocu-very-day-people-FHe1la {
+  background-color: transparent;
+  height: auto;
+  left: 302px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 71px;
+  width: 834px;
+}
+
+.ipad-pro-11-2 .for-the-people-uxmrrp {
+  background-color: transparent;
+  height: 241px;
+  left: 354px;
+  position: absolute;
+  top: 156px;
+  width: 309px;
+}
+
+.ipad-pro-11-2 .for-the-people-CUk0xM {
+  background-color: transparent;
+  height: auto;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  width: auto;
+}
+
+.ipad-pro-11-2 .making-cryptocu-enced-investors-CUk0xM {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 181px;
+  width: 305px;
+}
+
+.ipad-pro-11-2 .group-white-1-CUk0xM {
+  background-color: transparent;
+  height: 92px;
+  left: 107px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 92px;
+}
+
+.ipad-pro-11-2 .access-to-financial-freedome-uxmrrp {
+  background-color: transparent;
+  height: 245px;
+  left: 767px;
+  position: absolute;
+  top: 185px;
+  width: 309px;
+}
+
+.ipad-pro-11-2 .access-to-financial-freedom-04DOQX {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 106px;
+  width: auto;
+}
+
+.ipad-pro-11-2 .viventus-focuse-currency-market-04DOQX {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 165px;
+  width: 305px;
+}
+
+.ipad-pro-11-2 .dollar-white-1-04DOQX {
+  background-color: transparent;
+  height: 59px;
+  left: 123px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 59px;
+}
+
+.ipad-pro-11-2 .trust-uxmrrp {
+  background-color: transparent;
+  height: 257px;
+  left: 566px;
+  position: absolute;
+  top: 530px;
+  width: 309px;
+}
+
+.ipad-pro-11-2 .trust-a0bgxx {
+  background-color: transparent;
+  height: auto;
+  left: 129px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 118px;
+  width: auto;
+}
+
+.ipad-pro-11-2 .viventus-does-n-of-their-assets-a0bgxx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 177px;
+  width: 305px;
+}
+
+.ipad-pro-11-2 .honesty-white-1-a0bgxx {
+  background-color: transparent;
+  height: 84px;
+  left: 112px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 84px;
+}
+
+.ipad-pro-11-2 .contact-jxVE5C {
+  background-color: transparent;
+  height: 792px;
+  left: 49px;
+  position: absolute;
+  top: 3097px;
+  width: 757px;
+}
+
+.ipad-pro-11-2 .lets-talk-about-Qiu2Pm {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-pro-11-2 .have-any-questi-oon-as-possible-Qiu2Pm {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 190px;
+  width: 733px;
+}
+
+.ipad-pro-11-2 .first-name-Qiu2Pm {
+  background-color: transparent;
+  height: 80px;
+  left: 0px;
+  position: absolute;
+  top: 321px;
+  width: 364px;
+}
+
+.ipad-pro-11-2 .rectangle-131-x6VjXj {
+  background-color: var(--woodsmoke);
+  height: 57px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 23px;
+  width: 362px;
+}
+
+.ipad-pro-11-2 .first-name-x6VjXj {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.ipad-pro-11-2 .email-Qiu2Pm {
+  background-color: transparent;
+  height: 80px;
+  left: 0px;
+  position: absolute;
+  top: 465px;
+  width: 364px;
+}
+
+.ipad-pro-11-2 .rectangle-133-6GEgwt {
+  background-color: var(--woodsmoke);
+  height: 57px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 23px;
+  width: 362px;
+}
+
+.ipad-pro-11-2 .email-address-6GEgwt {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.ipad-pro-11-2 .message-Qiu2Pm {
+  background-color: transparent;
+  height: 143px;
+  left: 0px;
+  position: absolute;
+  top: 608px;
+  width: 747px;
+}
+
+.ipad-pro-11-2 .rectangle-135-Dg6W8I {
+  background-color: var(--woodsmoke);
+  height: 120px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 23px;
+  width: 745px;
+}
+
+.ipad-pro-11-2 .message-Dg6W8I {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.ipad-pro-11-2 .subject-title-Qiu2Pm {
+  background-color: transparent;
+  height: 80px;
+  left: 383px;
+  position: absolute;
+  top: 471px;
+  width: 364px;
+}
+
+.ipad-pro-11-2 .rectangle-134-4g2WRI {
+  background-color: var(--woodsmoke);
+  height: 57px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 23px;
+  width: 362px;
+}
+
+.ipad-pro-11-2 .subject-title-4g2WRI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.ipad-pro-11-2 .last-name-Qiu2Pm {
+  background-color: transparent;
+  height: 80px;
+  left: 383px;
+  position: absolute;
+  top: 321px;
+  width: 364px;
+}
+
+.ipad-pro-11-2 .rectangle-132-OgaxS2 {
+  background-color: var(--woodsmoke);
+  height: 57px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 23px;
+  width: 362px;
+}
+
+.ipad-pro-11-2 .last-name-OgaxS2 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.ipad-pro-11-2 .joining-the-team-Qiu2Pm {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 83px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-pro-11-2 .general-inquiries-Qiu2Pm {
+  background-color: transparent;
+  height: auto;
+  left: 287px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 83px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-pro-11-2 .support-Qiu2Pm {
+  background-color: transparent;
+  height: auto;
+  left: 564px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 83px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-pro-11-2 .send-message-Qiu2Pm {
+  background-color: transparent;
+  height: auto;
+  left: 614px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 792px;
+  width: auto;
+}
+
+.ipad-pro-11-2 .footer-jxVE5C {
+  background-color: transparent;
+  height: 507px;
+  left: 0px;
+  position: absolute;
+  top: 4087px;
+  width: 836px;
+}
+
+.ipad-pro-11-2 .subscripton-AdRnUj {
+  background-color: transparent;
+  height: 83px;
+  left: 73px;
+  position: absolute;
+  top: 262px;
+  width: 331px;
+}
+
+.ipad-pro-11-2 .subscribe-to-ge-ge-and-products-zgrftU {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 35px;
+  width: 327px;
+}
+
+.ipad-pro-11-2 .submit-for-updates-zgrftU {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 19.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-pro-11-2 .socmed-AdRnUj {
+  background-color: transparent;
+  height: 24px;
+  left: 73px;
+  position: absolute;
+  top: 108px;
+  width: 80px;
+}
+
+.ipad-pro-11-2 .logo-facebook-KOuwM2 {
+  background-color: transparent;
+  height: 24px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.ipad-pro-11-2 .logo-instagram-KOuwM2 {
+  background-color: transparent;
+  height: 24px;
+  left: 55px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ipad-pro-11-2 .line-5-AdRnUj {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 427px;
+  width: 834px;
+}
+
+.ipad-pro-11-2 .cryptolly-all-rights-reserved-AdRnUj {
+  background-color: transparent;
+  color: var(--gunsmoke-2);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 315px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 483px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-pro-11-2 .term-of-service-AdRnUj {
+  background-color: transparent;
+  height: 24px;
+  left: 304px;
+  position: absolute;
+  top: 443px;
+  width: 236px;
+}
+
+.ipad-pro-11-2 .term-of-service-JVdRvM {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-pro-11-2 .line-44-JVdRvM {
+  background-color: transparent;
+  height: 24px;
+  left: 123px;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.ipad-pro-11-2 .privacy-policy-JVdRvM {
+  background-color: transparent;
+  height: auto;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-pro-11-2 .logo-AdRnUj {
+  background-color: transparent;
+  height: 59px;
+  left: 73px;
+  position: absolute;
+  top: 0px;
+  width: 180px;
+}
+
+.ipad-pro-11-2 .ai-powered-otAkzC {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-pro-11-2 .logo-otAkzC {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 176px;
+}
+
+.ipad-pro-11-2 .twitter-logo-1-AdRnUj {
+  background-color: transparent;
+  height: 20px;
+  left: 196px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 112px;
+  width: 23px;
+}
+
+.ipad-pro-11-2 .mobile-form-AdRnUj {
+  background-color: var(--tuna-2);
+  border-radius: 100px;
+  height: 55px;
+  left: 420px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 290px;
+  width: 327px;
+}
+
+.ipad-pro-11-2 .enter-you-email-ess-i2613434543-v8JqiV {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 217px;
+}
+
+.ipad-pro-11-2 .button-v8JqiV {
+  background-color: transparent;
+  border-radius: 40px;
+  height: 39px;
+  left: 251px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 68px;
+}
+
+.ipad-pro-11-2 .get-started-i26134356427434547-nbj0s3 {
+  background-color: transparent;
+  height: auto;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-pro-11-2 .quick-link-AdRnUj {
+  background-color: transparent;
+  height: 179px;
+  left: 392px;
+  position: absolute;
+  top: 1px;
+  width: 214px;
+}
+
+.ipad-pro-11-2 .link-list-aaUl0t {
+  background-color: transparent;
+  height: 144px;
+  left: 0px;
+  position: absolute;
+  top: 35px;
+  width: 212px;
+}
+
+.ipad-pro-11-2 .link-1-gw2CGV {
+  background-color: transparent;
+  height: 144px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 157px;
+}
+
+.ipad-pro-11-2 .buy-sell-pmVORe {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-pro-11-2 .trade-now-pmVORe {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-pro-11-2 .pricing-pmVORe {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 80px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-pro-11-2 .services-pmVORe {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-pro-11-2 .link-2-gw2CGV {
+  background-color: transparent;
+  height: 64px;
+  left: 157px;
+  position: absolute;
+  top: 0px;
+  width: 55px;
+}
+
+.ipad-pro-11-2 .wallets-Dx5vR3 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-pro-11-2 .company-Dx5vR3 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-pro-11-2 .quick-links-aaUl0t {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 19.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-pro-11-2 .team-jxVE5C {
+  background-color: transparent;
+  height: 951px;
+  left: -302px;
+  position: absolute;
+  top: 1837px;
+  width: 1442px;
+}
+
+.ipad-pro-11-2 .meet-the-team-N1wZxS {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 1438px;
+}
+
+.ipad-pro-11-2 .dedicated-in-pr-best-experience-N1wZxS {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  width: 1438px;
+}
+
+.ipad-pro-11-2 .nathan-N1wZxS {
+  background-color: transparent;
+  height: 334px;
+  left: 592px;
+  position: absolute;
+  top: 194px;
+  width: 254px;
+}
+
+.ipad-pro-11-2 .x3-5-rrB6YW {
+  background-color: transparent;
+  height: 252px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 252px;
+}
+
+.ipad-pro-11-2 .co-founder-lead-nathan-martell-rrB6YW {
+  background-color: transparent;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 20.9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 292px;
+  width: auto;
+}
+
+.ipad-pro-11-2 .span0-kcYWPD {
+}
+
+.ipad-pro-11-2 .span1-kcYWPD {
+}
+
+.ipad-pro-11-2 .will-N1wZxS {
+  background-color: transparent;
+  height: 355px;
+  left: 401px;
+  position: absolute;
+  top: 596px;
+  width: 255px;
+}
+
+.ipad-pro-11-2 .x5-1-JyGj76 {
+  background-color: transparent;
+  height: 252px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 253px;
+}
+
+.ipad-pro-11-2 .co-founder-comm-ger-will-lupton-JyGj76 {
+  background-color: transparent;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 20.9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 292px;
+  width: auto;
+}
+
+.ipad-pro-11-2 .span0-GJKicG {
+}
+
+.ipad-pro-11-2 .span1-GJKicG {
+}
+
+.ipad-pro-11-2 .ying-N1wZxS {
+  background-color: transparent;
+  height: 334px;
+  left: 783px;
+  position: absolute;
+  top: 596px;
+  width: 254px;
+}
+
+.ipad-pro-11-2 .x1-46-BcdC5u {
+  background-color: transparent;
+  height: 252px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 252px;
+}
+
+.ipad-pro-11-2 .co-founder-designer-ying-z-BcdC5u {
+  background-color: transparent;
+  height: auto;
+  left: 53px;
+  letter-spacing: 0.00px;
+  line-height: 20.9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 292px;
+  width: auto;
+}
+
+.ipad-pro-11-2 .span0-NK1p9u {
+}
+
+.ipad-pro-11-2 .span1-NK1p9u {
+}
+@media screen and (max-width: 1439px) {
+  .screen.about-desktop { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.ipad-pro-11-2 { 
+    display: none;
+   }
+}

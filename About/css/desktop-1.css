@@ -1,0 +1,3368 @@
+/* screen - desktop-1 */
+
+.desktop-1 {
+  background-color: var(--black);
+  height: 1336px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-1 .dashnav-Ys8k0x {
+  background-color: transparent;
+  height: 1336px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 193px;
+}
+
+.desktop-1 .side-bg-4wVkjo {
+  background-color: transparent;
+  height: 1336px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 193px;
+}
+
+.desktop-1 .help-card-4wVkjo {
+  background-color: transparent;
+  height: 106px;
+  left: 0px;
+  position: absolute;
+  top: 599px;
+  width: 195px;
+}
+
+.desktop-1 .rectangle-612-9X23ZO {
+  background-color: var(--licorice);
+  cursor: pointer;
+  height: 106px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 193px;
+}
+
+.desktop-1 .rectangle-612-9X23ZO:hover {
+  background-color: #2C2C2C
+}
+
+.desktop-1 .help-9X23ZO {
+  background-color: transparent;
+  height: auto;
+  left: 83px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.7;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  width: auto;
+}
+
+.desktop-1 .question-9X23ZO {
+  background-color: transparent;
+  height: 20px;
+  left: 85px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 32px;
+  width: 20px;
+}
+
+.desktop-1 .support-card-4wVkjo {
+  background-color: transparent;
+  height: 106px;
+  left: 0px;
+  position: absolute;
+  top: 494px;
+  width: 195px;
+}
+
+.desktop-1 .rectangle-611-7ovwOy {
+  background-color: var(--licorice);
+  cursor: pointer;
+  height: 106px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 193px;
+}
+
+.desktop-1 .rectangle-611-7ovwOy:hover {
+  background-color: #2C2C2C
+}
+
+.desktop-1 .support-7ovwOy {
+  background-color: transparent;
+  height: auto;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.7;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.desktop-1 .support-white-1-7ovwOy {
+  background-color: transparent;
+  height: 20px;
+  left: 86px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 33px;
+  width: 20px;
+}
+
+.desktop-1 .settings-card-4wVkjo {
+  background-color: transparent;
+  height: 106px;
+  left: 0px;
+  position: absolute;
+  top: 388px;
+  width: 195px;
+}
+
+.desktop-1 .rectangle-610-R0YWpW {
+  background-color: var(--licorice);
+  cursor: pointer;
+  height: 106px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 193px;
+}
+
+.desktop-1 .rectangle-610-R0YWpW:hover {
+  background-color: #2C2C2C
+}
+
+.desktop-1 .settings-R0YWpW {
+  background-color: transparent;
+  height: auto;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.7;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  width: auto;
+}
+
+.desktop-1 .settings-bold-white-1-R0YWpW {
+  background-color: transparent;
+  height: 20px;
+  left: 87px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 31px;
+  width: 20px;
+}
+
+.desktop-1 .dashboard-4wVkjo {
+  background-color: transparent;
+  height: 106px;
+  left: 0px;
+  position: absolute;
+  top: 282px;
+  width: 195px;
+}
+
+.desktop-1 .rectangle-609-rdM5j3 {
+  background-color: var(--licorice);
+  cursor: pointer;
+  height: 106px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 193px;
+}
+
+.desktop-1 .rectangle-609-rdM5j3:hover {
+  background-color: #2C2C2C
+}
+
+.desktop-1 .dashboard-rdM5j3 {
+  background-color: transparent;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 65px;
+  width: auto;
+}
+
+.desktop-1 .combined-shape-rdM5j3 {
+  background-color: transparent;
+  height: 20px;
+  left: 87px;
+  position: absolute;
+  top: 34px;
+  width: 20px;
+}
+
+.desktop-1 .profile-card-4wVkjo {
+  background-color: transparent;
+  height: 106px;
+  left: 0px;
+  position: absolute;
+  top: 176px;
+  width: 195px;
+}
+
+.desktop-1 .rectangle-608-xg63TZ {
+  background-color: var(--licorice);
+  cursor: pointer;
+  height: 106px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 193px;
+}
+
+.desktop-1 .rectangle-608-xg63TZ:hover {
+  background-color: #2C2C2C
+}
+
+.desktop-1 .profile-xg63TZ {
+  background-color: transparent;
+  height: auto;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.7;
+  position: absolute;
+  text-align: left;
+  top: 63px;
+  width: 38px;
+}
+
+.desktop-1 .user-img-xg63TZ {
+  background-color: transparent;
+  height: 20px;
+  left: 86px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 20px;
+}
+
+.desktop-1 .logo-4wVkjo {
+  background-color: transparent;
+  height: 25px;
+  left: 74px;
+  position: absolute;
+  top: 63px;
+  width: 45px;
+}
+
+.desktop-1 .asset-allocation-Ys8k0x {
+  background-color: transparent;
+  height: 271px;
+  left: 967px;
+  position: absolute;
+  top: 463px;
+  width: 445px;
+}
+
+.desktop-1 .rectangle-605-KEAJcu {
+  background-color: var(--licorice);
+  height: 271px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 443px;
+}
+
+.desktop-1 .pie-chart-KEAJcu {
+  background-color: transparent;
+  height: 133px;
+  left: 29px;
+  position: absolute;
+  top: 90px;
+  width: 125px;
+}
+
+.desktop-1 .asset-allocation-KEAJcu {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.desktop-1 .line-5-KEAJcu {
+  background-color: transparent;
+  height: 1px;
+  left: 5px;
+  position: absolute;
+  top: 64px;
+  width: 438px;
+}
+
+.desktop-1 .assetonorders-KEAJcu {
+  background-color: transparent;
+  height: 99px;
+  left: 242px;
+  position: absolute;
+  top: 109px;
+  width: 177px;
+}
+
+.desktop-1 .order-1-89MTkw {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 181px;
+}
+
+.desktop-1 .x034-btc-xPQxY3 {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 83px;
+}
+
+.desktop-1 .in-orders-xPQxY3 {
+  background-color: transparent;
+  height: auto;
+  left: 109px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.81;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 68px;
+}
+
+.desktop-1 .oval-5-xPQxY3 {
+  background-color: transparent;
+  height: 8px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 7px;
+}
+
+.desktop-1 .order-2-89MTkw {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  top: 40px;
+  width: 181px;
+}
+
+.desktop-1 .x34-eth-rOjMjQ {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 74px;
+}
+
+.desktop-1 .in-orders-rOjMjQ {
+  background-color: transparent;
+  height: auto;
+  left: 109px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.81;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 68px;
+}
+
+.desktop-1 .oval-5-rOjMjQ {
+  background-color: transparent;
+  height: 8px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 7px;
+}
+
+.desktop-1 .order-3-89MTkw {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  top: 80px;
+  width: 181px;
+}
+
+.desktop-1 .x23-sol-s79131 {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 69px;
+}
+
+.desktop-1 .in-orders-s79131 {
+  background-color: transparent;
+  height: auto;
+  left: 109px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.81;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 68px;
+}
+
+.desktop-1 .oval-5-s79131 {
+  background-color: transparent;
+  height: 8px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 7px;
+}
+
+.desktop-1 .total-KEAJcu {
+  background-color: transparent;
+  height: 20px;
+  left: 264px;
+  position: absolute;
+  top: 27px;
+  width: 160px;
+}
+
+.desktop-1 .total-cKiLQa {
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.2;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 43px;
+}
+
+.desktop-1 .x3245656-usd-cKiLQa {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.6;
+  position: absolute;
+  text-align: right;
+  top: 1px;
+  width: 156px;
+}
+
+.desktop-1 .coin-overview-Ys8k0x {
+  background-color: transparent;
+  height: 273px;
+  left: 231px;
+  position: absolute;
+  top: 461px;
+  width: 724px;
+}
+
+.desktop-1 .rectangle-54-pb8ml3 {
+  background-color: var(--licorice);
+  height: 273px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 716px;
+}
+
+.desktop-1 .total-assets-pb8ml3 {
+  background-color: transparent;
+  height: auto;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 162px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .x323098-usd-pb8ml3 {
+  background-color: transparent;
+  height: auto;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 222px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .x02133214214-pb8ml3 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto-medium);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 28.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 193px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .frame-5-pb8ml3 {
+  background-color: transparent;
+  height: 32px;
+  left: 15px;
+  position: absolute;
+  top: 19px;
+  width: 95px;
+}
+
+.desktop-1 .logo-bitcoin-TzyGZJ {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.desktop-1 .btc-TzyGZJ {
+  background-color: transparent;
+  height: auto;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .in-orders-bar-pb8ml3 {
+  background-color: transparent;
+  height: 99px;
+  left: 323px;
+  position: absolute;
+  top: 21px;
+  width: 360px;
+}
+
+.desktop-1 .graph-VEl8cR {
+  background-color: transparent;
+  height: 28px;
+  left: 193px;
+  position: absolute;
+  top: 5px;
+  width: 120px;
+}
+
+.desktop-1 .frame-58-VEl8cR {
+  background-color: transparent;
+  height: 86px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 120px;
+}
+
+.desktop-1 .in-orders-B8EjCi {
+  background-color: transparent;
+  color: #c4c4c4;
+  font-family: var(--font-family-roboto-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .frame-59-B8EjCi {
+  background-color: transparent;
+  height: 54px;
+  left: 0px;
+  position: absolute;
+  top: 32px;
+  width: 106px;
+}
+
+.desktop-1 .x0213435345-TYJMED {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .x389798-usd-TYJMED {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 27px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .rectangle-555-VEl8cR {
+  background-color: #141518;
+  border-radius: 50px;
+  height: 5px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 94px;
+  width: 358px;
+}
+
+.desktop-1 .rectangle-557-VEl8cR {
+  background-color: #b8b8b8;
+  border-radius: 50px;
+  height: 5px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 94px;
+  width: 140px;
+}
+
+.desktop-1 .x055-VEl8cR {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto-thin);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 100;
+  height: auto;
+  left: 255px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 42px;
+  white-space: nowrap;
+  width: 58px;
+}
+
+.desktop-1 .total-asset-bar-pb8ml3 {
+  background-color: transparent;
+  height: 101px;
+  left: 323px;
+  position: absolute;
+  top: 148px;
+  width: 360px;
+}
+
+.desktop-1 .graph-sUPNoH {
+  background-color: transparent;
+  height: 28px;
+  left: 193px;
+  position: absolute;
+  top: 14px;
+  width: 120px;
+}
+
+.desktop-1 .frame-58-sUPNoH {
+  background-color: transparent;
+  height: 86px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 243px;
+}
+
+.desktop-1 .total-assets-hgPPkz {
+  background-color: transparent;
+  color: #b9b9ba;
+  font-family: var(--font-family-roboto-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .frame-59-hgPPkz {
+  background-color: transparent;
+  height: 54px;
+  left: 0px;
+  position: absolute;
+  top: 32px;
+  width: 96px;
+}
+
+.desktop-1 .x0213435345-sOrxdK {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .x389798-usd-sOrxdK {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 27px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .rectangle-556-sUPNoH {
+  background-color: #141518;
+  border-radius: 50px;
+  height: 5px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 96px;
+  width: 358px;
+}
+
+.desktop-1 .x075-sUPNoH {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto-thin);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 100;
+  height: auto;
+  left: 255px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 46px;
+  white-space: nowrap;
+  width: 58px;
+}
+
+.desktop-1 .rectangle-558-sUPNoH {
+  background-color: #b8b8b8;
+  border-radius: 50px;
+  height: 5px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 96px;
+  width: 265px;
+}
+
+.desktop-1 .seperation-bar-pb8ml3 {
+  background-color: transparent;
+  height: 273px;
+  left: 283px;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.desktop-1 .x025-pb8ml3 {
+  background-color: transparent;
+  height: auto;
+  left: 202px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  white-space: nowrap;
+  width: 66px;
+}
+
+.desktop-1 .walletholdings-Ys8k0x {
+  background-color: transparent;
+  height: 224px;
+  left: 231px;
+  position: absolute;
+  top: 218px;
+  width: 1120px;
+}
+
+.desktop-1 .btc-card-ZOPaEt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 191px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 272px;
+}
+
+.desktop-1 .btc-card-ZOPaEt:hover {
+}
+
+.desktop-1 .rectangle-604-FHaM5z {
+  background-color: var(--eerie-black);
+  cursor: pointer;
+  height: 191px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 266px;
+}
+
+.desktop-1 .rectangle-604-FHaM5z:hover {
+  background-color: #2C2C2C
+}
+
+.desktop-1 .frame-63-FHaM5z {
+  background-color: transparent;
+  height: 14px;
+  left: 15px;
+  position: absolute;
+  top: 20px;
+  width: 70px;
+}
+
+.desktop-1 .logo-bitcoin-gxqdbk {
+  background-color: transparent;
+  height: 25px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -6px;
+  width: 25px;
+}
+
+.desktop-1 .btc-gxqdbk {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .x02133214214-FHaM5z {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  white-space: nowrap;
+  width: 133px;
+}
+
+.desktop-1 .x323098-usd-FHaM5z {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 73px;
+  white-space: nowrap;
+  width: 97px;
+}
+
+.desktop-1 .x025-FHaM5z {
+  background-color: transparent;
+  height: auto;
+  left: 198px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.desktop-1 .graph-FHaM5z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 69px;
+  left: 13px;
+  pointer-events: auto;
+  position: absolute;
+  top: 112px;
+  transition: all 0.2s ease;
+  width: 235px;
+}
+
+.desktop-1 .graph-FHaM5z:hover {
+}
+
+.desktop-1 .btc-card-9dDXPu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 191px;
+  left: 284px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 272px;
+}
+
+.desktop-1 .btc-card-9dDXPu:hover {
+}
+
+.desktop-1 .rectangle-604-hahJ9t {
+  background-color: var(--eerie-black);
+  cursor: pointer;
+  height: 191px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 266px;
+}
+
+.desktop-1 .rectangle-604-hahJ9t:hover {
+  background-color: #2C2C2C
+}
+
+.desktop-1 .frame-63-hahJ9t {
+  background-color: transparent;
+  height: 14px;
+  left: 15px;
+  position: absolute;
+  top: 20px;
+  width: 70px;
+}
+
+.desktop-1 .logo-bitcoin-YBzvnU {
+  background-color: transparent;
+  height: 25px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -6px;
+  width: 25px;
+}
+
+.desktop-1 .eth-YBzvnU {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .x02133214214-hahJ9t {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  white-space: nowrap;
+  width: 133px;
+}
+
+.desktop-1 .x323098-usd-hahJ9t {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 73px;
+  white-space: nowrap;
+  width: 97px;
+}
+
+.desktop-1 .x025-hahJ9t {
+  background-color: transparent;
+  height: auto;
+  left: 198px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.desktop-1 .graph-hahJ9t {
+  background-color: transparent;
+  height: 69px;
+  left: 13px;
+  position: absolute;
+  top: 112px;
+  width: 235px;
+}
+
+.desktop-1 .btc-card-SNaYkY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 191px;
+  left: 568px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 272px;
+}
+
+.desktop-1 .btc-card-SNaYkY:hover {
+}
+
+.desktop-1 .rectangle-604-X4yTMq {
+  background-color: var(--eerie-black);
+  cursor: pointer;
+  height: 191px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 266px;
+}
+
+.desktop-1 .rectangle-604-X4yTMq:hover {
+  background-color: #2C2C2C
+}
+
+.desktop-1 .frame-63-X4yTMq {
+  background-color: transparent;
+  height: 14px;
+  left: 15px;
+  position: absolute;
+  top: 20px;
+  width: 70px;
+}
+
+.desktop-1 .logo-bitcoin-t91zkS {
+  background-color: transparent;
+  height: 25px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -6px;
+  width: 25px;
+}
+
+.desktop-1 .sol-t91zkS {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .x02133214214-X4yTMq {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  white-space: nowrap;
+  width: 133px;
+}
+
+.desktop-1 .x323098-usd-X4yTMq {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 73px;
+  white-space: nowrap;
+  width: 97px;
+}
+
+.desktop-1 .x025-X4yTMq {
+  background-color: transparent;
+  height: auto;
+  left: 198px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.desktop-1 .graph-X4yTMq {
+  background-color: transparent;
+  height: 69px;
+  left: 13px;
+  position: absolute;
+  top: 112px;
+  width: 235px;
+}
+
+.desktop-1 .btc-card-0JiUtq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 191px;
+  left: 852px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 272px;
+}
+
+.desktop-1 .btc-card-0JiUtq:hover {
+}
+
+.desktop-1 .rectangle-604-AsN2MS {
+  background-color: var(--eerie-black);
+  cursor: pointer;
+  height: 191px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 266px;
+}
+
+.desktop-1 .rectangle-604-AsN2MS:hover {
+  background-color: #2C2C2C
+}
+
+.desktop-1 .frame-63-AsN2MS {
+  background-color: transparent;
+  height: 14px;
+  left: 15px;
+  position: absolute;
+  top: 20px;
+  width: 70px;
+}
+
+.desktop-1 .logo-bitcoin-eR5xKk {
+  background-color: transparent;
+  height: 25px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -6px;
+  width: 25px;
+}
+
+.desktop-1 .usd-eR5xKk {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .x02133214214-AsN2MS {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  white-space: nowrap;
+  width: 133px;
+}
+
+.desktop-1 .x323098-usd-AsN2MS {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 73px;
+  white-space: nowrap;
+  width: 97px;
+}
+
+.desktop-1 .x025-AsN2MS {
+  background-color: transparent;
+  height: auto;
+  left: 198px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.desktop-1 .graph-AsN2MS {
+  background-color: transparent;
+  height: 69px;
+  left: 13px;
+  position: absolute;
+  top: 112px;
+  width: 235px;
+}
+
+.desktop-1 .wallet-ZOPaEt {
+  background-color: transparent;
+  color: var(--gunsmoke-2);
+  font-family: var(--font-family-roboto-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.desktop-1 .overview-Ys8k0x {
+  background-color: transparent;
+  height: 50px;
+  left: 231px;
+  position: absolute;
+  top: 126px;
+  width: 1063px;
+}
+
+.desktop-1 .total-profit-zGwaDg {
+  background-color: transparent;
+  height: 50px;
+  left: 472px;
+  position: absolute;
+  top: 0px;
+  width: 161px;
+}
+
+.desktop-1 .total-profit-PHVOvK {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x14567856-usd-PHVOvK {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  width: auto;
+}
+
+.desktop-1 .total-balance-zGwaDg {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 148px;
+}
+
+.desktop-1 .total-balance-VXFdfX {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x3256789-usd-VXFdfX {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  width: auto;
+}
+
+.desktop-1 .trading-balance-zGwaDg {
+  background-color: transparent;
+  height: 50px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 148px;
+}
+
+.desktop-1 .trading-balance-hi73AP {
+  background-color: transparent;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x3256745-usd-hi73AP {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  width: auto;
+}
+
+.desktop-1 .total-profit-s1nmvo {
+  background-color: transparent;
+  height: 50px;
+  left: 721px;
+  position: absolute;
+  top: 0px;
+  width: 97px;
+}
+
+.desktop-1 .total-profit-hueaLe {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x24-hueaLe {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  width: auto;
+}
+
+.desktop-1 .in-orders-zGwaDg {
+  background-color: transparent;
+  height: 50px;
+  left: 906px;
+  position: absolute;
+  top: 0px;
+  width: 161px;
+}
+
+.desktop-1 .in-orders-C4xSux {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x30567856-usd-C4xSux {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  width: auto;
+}
+
+.desktop-1 .nav-bar-line-Ys8k0x {
+  background-color: transparent;
+  height: 1px;
+  left: 193px;
+  position: absolute;
+  top: 106px;
+  width: 1247px;
+}
+
+.desktop-1 .top-dash-Ys8k0x {
+  background-color: transparent;
+  height: 36px;
+  left: 231px;
+  position: absolute;
+  top: 56px;
+  width: 1157px;
+}
+
+.desktop-1 .refreshbutton-U0mZPr {
+  background-color: transparent;
+  height: 26px;
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: 26px;
+}
+
+.desktop-1 .john-smith-U0mZPr {
+  background-color: transparent;
+  height: auto;
+  left: 1073px;
+  letter-spacing: 0.00px;
+  line-height: 25.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .notification-U0mZPr {
+  background-color: transparent;
+  height: 22px;
+  left: 1033px;
+  position: absolute;
+  top: 8px;
+  width: 22px;
+}
+
+.desktop-1 .iconly-light-ou-ne-arrow-down-5-e5CsnJ {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+
+.desktop-1 .trad-ehistory-Ys8k0x {
+  background-color: transparent;
+  height: 335px;
+  left: 231px;
+  position: absolute;
+  top: 776px;
+  width: 1181px;
+}
+
+.desktop-1 .rectangle-606-KVHjTZ {
+  background-color: var(--licorice);
+  height: 304px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 31px;
+  width: 1179px;
+}
+
+.desktop-1 .trade-history-KVHjTZ {
+  background-color: transparent;
+  color: var(--gunsmoke-2);
+  font-family: var(--font-family-roboto-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .timestamp-KVHjTZ {
+  background-color: transparent;
+  height: 15px;
+  left: 27px;
+  position: absolute;
+  top: 55px;
+  width: 78px;
+}
+
+.desktop-1 .timestamp-3m5vzB {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .combined-shape-3m5vzB {
+  background-color: transparent;
+  height: 8px;
+  left: 72px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.desktop-1 .timestamp-Zf4qpp {
+  background-color: transparent;
+  height: 15px;
+  left: 173px;
+  position: absolute;
+  top: 55px;
+  width: 37px;
+}
+
+.desktop-1 .coin-DJZxxk {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .combined-shape-DJZxxk {
+  background-color: transparent;
+  height: 8px;
+  left: 31px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.desktop-1 .timestamp-g6gGNl {
+  background-color: transparent;
+  height: 15px;
+  left: 291px;
+  position: absolute;
+  top: 55px;
+  width: 37px;
+}
+
+.desktop-1 .side-tPxwT3 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .combined-shape-tPxwT3 {
+  background-color: transparent;
+  height: 8px;
+  left: 31px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.desktop-1 .timestamp-ilL35k {
+  background-color: transparent;
+  height: 15px;
+  left: 429px;
+  position: absolute;
+  top: 55px;
+  width: 39px;
+}
+
+.desktop-1 .price-NBh3jG {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .combined-shape-NBh3jG {
+  background-color: transparent;
+  height: 8px;
+  left: 33px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.desktop-1 .timestamp-64HLtm {
+  background-color: transparent;
+  height: 15px;
+  left: 563px;
+  position: absolute;
+  top: 55px;
+  width: 88px;
+}
+
+.desktop-1 .profit-gain-IrNgmG {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .combined-shape-IrNgmG {
+  background-color: transparent;
+  height: 8px;
+  left: 82px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.desktop-1 .timestamp-sxWD9c {
+  background-color: transparent;
+  height: 15px;
+  left: 736px;
+  position: absolute;
+  top: 55px;
+  width: 105px;
+}
+
+.desktop-1 .current-balance-Fx0JKe {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .combined-shape-Fx0JKe {
+  background-color: transparent;
+  height: 8px;
+  left: 99px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.desktop-1 .timestamp-ls2xG4 {
+  background-color: transparent;
+  height: 15px;
+  left: 928px;
+  position: absolute;
+  top: 55px;
+  width: 80px;
+}
+
+.desktop-1 .total-asset-Ylhw4t {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .combined-shape-Ylhw4t {
+  background-color: transparent;
+  height: 8px;
+  left: 74px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.desktop-1 .timestamp-Bqvy6q {
+  background-color: transparent;
+  height: 15px;
+  left: 1098px;
+  position: absolute;
+  top: 55px;
+  width: 48px;
+}
+
+.desktop-1 .fee-teYFy0 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .combined-shape-teYFy0 {
+  background-color: transparent;
+  height: 8px;
+  left: 42px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.desktop-1 .details-KVHjTZ {
+  background-color: transparent;
+  height: 39px;
+  left: 0px;
+  position: absolute;
+  top: 89px;
+  width: 1179px;
+}
+
+.desktop-1 .rectangle-607-uQYSKu {
+  background-color: var(--licorice);
+  cursor: pointer;
+  height: 39px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 1179px;
+}
+
+.desktop-1 .rectangle-607-uQYSKu:hover {
+  background-color: #2C2C2C
+}
+
+.desktop-1 .details-uQYSKu {
+  background-color: transparent;
+  height: 15px;
+  left: 27px;
+  position: absolute;
+  top: 12px;
+  width: 1113px;
+}
+
+.desktop-1 .x1234556-qtqcnx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .eth-usd-qtqcnx {
+  background-color: transparent;
+  height: auto;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x567834-qtqcnx {
+  background-color: transparent;
+  height: auto;
+  left: 402px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x356-qtqcnx {
+  background-color: transparent;
+  height: auto;
+  left: 536px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x3466576-qtqcnx {
+  background-color: transparent;
+  height: auto;
+  left: 709px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x3466576-2xRFnC {
+  background-color: transparent;
+  height: auto;
+  left: 901px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x025-qtqcnx {
+  background-color: transparent;
+  height: auto;
+  left: 1071px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .sold-qtqcnx {
+  background-color: transparent;
+  height: auto;
+  left: 264px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .details-Zf4qpp {
+  background-color: transparent;
+  height: 39px;
+  left: 0px;
+  position: absolute;
+  top: 128px;
+  width: 1179px;
+}
+
+.desktop-1 .rectangle-607-mT1AaZ {
+  background-color: var(--licorice);
+  cursor: pointer;
+  height: 39px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 1179px;
+}
+
+.desktop-1 .rectangle-607-mT1AaZ:hover {
+  background-color: #2C2C2C
+}
+
+.desktop-1 .details-mT1AaZ {
+  background-color: transparent;
+  height: 15px;
+  left: 27px;
+  position: absolute;
+  top: 12px;
+  width: 1113px;
+}
+
+.desktop-1 .x1234556-qbYM8W {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .eth-usd-qbYM8W {
+  background-color: transparent;
+  height: auto;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x567834-qbYM8W {
+  background-color: transparent;
+  height: auto;
+  left: 402px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x356-qbYM8W {
+  background-color: transparent;
+  height: auto;
+  left: 536px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x3466576-qbYM8W {
+  background-color: transparent;
+  height: auto;
+  left: 709px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x3466576-z9b0ig {
+  background-color: transparent;
+  height: auto;
+  left: 901px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x025-qbYM8W {
+  background-color: transparent;
+  height: auto;
+  left: 1071px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .sold-qbYM8W {
+  background-color: transparent;
+  height: auto;
+  left: 264px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .details-g6gGNl {
+  background-color: transparent;
+  height: 39px;
+  left: 0px;
+  position: absolute;
+  top: 167px;
+  width: 1179px;
+}
+
+.desktop-1 .rectangle-607-VQ7pPe {
+  background-color: var(--licorice);
+  cursor: pointer;
+  height: 39px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 1179px;
+}
+
+.desktop-1 .rectangle-607-VQ7pPe:hover {
+  background-color: #2C2C2C
+}
+
+.desktop-1 .details-VQ7pPe {
+  background-color: transparent;
+  height: 15px;
+  left: 27px;
+  position: absolute;
+  top: 12px;
+  width: 1113px;
+}
+
+.desktop-1 .x1234556-UGaYjH {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .eth-usd-UGaYjH {
+  background-color: transparent;
+  height: auto;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x567834-UGaYjH {
+  background-color: transparent;
+  height: auto;
+  left: 402px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x356-UGaYjH {
+  background-color: transparent;
+  height: auto;
+  left: 536px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x3466576-UGaYjH {
+  background-color: transparent;
+  height: auto;
+  left: 709px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x3466576-c4mxYR {
+  background-color: transparent;
+  height: auto;
+  left: 901px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x025-UGaYjH {
+  background-color: transparent;
+  height: auto;
+  left: 1071px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .sold-UGaYjH {
+  background-color: transparent;
+  height: auto;
+  left: 264px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .details-ilL35k {
+  background-color: transparent;
+  height: 39px;
+  left: 0px;
+  position: absolute;
+  top: 206px;
+  width: 1179px;
+}
+
+.desktop-1 .rectangle-607-xwl7Rx {
+  background-color: var(--licorice);
+  cursor: pointer;
+  height: 39px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 1179px;
+}
+
+.desktop-1 .rectangle-607-xwl7Rx:hover {
+  background-color: #2C2C2C
+}
+
+.desktop-1 .details-xwl7Rx {
+  background-color: transparent;
+  height: 15px;
+  left: 27px;
+  position: absolute;
+  top: 12px;
+  width: 1113px;
+}
+
+.desktop-1 .x1234556-qjMcf7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .eth-usd-qjMcf7 {
+  background-color: transparent;
+  height: auto;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x567834-qjMcf7 {
+  background-color: transparent;
+  height: auto;
+  left: 402px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x356-qjMcf7 {
+  background-color: transparent;
+  height: auto;
+  left: 536px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x3466576-qjMcf7 {
+  background-color: transparent;
+  height: auto;
+  left: 709px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x3466576-nEZGXi {
+  background-color: transparent;
+  height: auto;
+  left: 901px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x025-qjMcf7 {
+  background-color: transparent;
+  height: auto;
+  left: 1071px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .sold-qjMcf7 {
+  background-color: transparent;
+  height: auto;
+  left: 264px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .details-64HLtm {
+  background-color: transparent;
+  height: 39px;
+  left: 0px;
+  position: absolute;
+  top: 245px;
+  width: 1179px;
+}
+
+.desktop-1 .rectangle-607-p3zrmt {
+  background-color: var(--licorice);
+  cursor: pointer;
+  height: 39px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 1179px;
+}
+
+.desktop-1 .rectangle-607-p3zrmt:hover {
+  background-color: #2C2C2C
+}
+
+.desktop-1 .details-p3zrmt {
+  background-color: transparent;
+  height: 15px;
+  left: 27px;
+  position: absolute;
+  top: 12px;
+  width: 1113px;
+}
+
+.desktop-1 .x1234556-kFHGG2 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .eth-usd-kFHGG2 {
+  background-color: transparent;
+  height: auto;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x567834-kFHGG2 {
+  background-color: transparent;
+  height: auto;
+  left: 402px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x356-kFHGG2 {
+  background-color: transparent;
+  height: auto;
+  left: 536px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x3466576-kFHGG2 {
+  background-color: transparent;
+  height: auto;
+  left: 709px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x3466576-a9rReB {
+  background-color: transparent;
+  height: auto;
+  left: 901px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x025-kFHGG2 {
+  background-color: transparent;
+  height: auto;
+  left: 1071px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .sold-kFHGG2 {
+  background-color: transparent;
+  height: auto;
+  left: 264px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .details-sxWD9c {
+  background-color: transparent;
+  height: 39px;
+  left: 0px;
+  position: absolute;
+  top: 284px;
+  width: 1179px;
+}
+
+.desktop-1 .rectangle-607-cXyzhq {
+  background-color: var(--licorice);
+  cursor: pointer;
+  height: 39px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 1179px;
+}
+
+.desktop-1 .rectangle-607-cXyzhq:hover {
+  background-color: #2C2C2C
+}
+
+.desktop-1 .details-cXyzhq {
+  background-color: transparent;
+  height: 15px;
+  left: 27px;
+  position: absolute;
+  top: 12px;
+  width: 1113px;
+}
+
+.desktop-1 .x1234556-glH0VA {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .eth-usd-glH0VA {
+  background-color: transparent;
+  height: auto;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x567834-glH0VA {
+  background-color: transparent;
+  height: auto;
+  left: 402px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x356-glH0VA {
+  background-color: transparent;
+  height: auto;
+  left: 536px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x3466576-glH0VA {
+  background-color: transparent;
+  height: auto;
+  left: 709px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x3466576-JTxKAe {
+  background-color: transparent;
+  height: auto;
+  left: 901px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .x025-glH0VA {
+  background-color: transparent;
+  height: auto;
+  left: 1071px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.29;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .sold-glH0VA {
+  background-color: transparent;
+  height: auto;
+  left: 264px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-1 .market-Ys8k0x {
+  background-color: transparent;
+  height: 139px;
+  left: 231px;
+  position: absolute;
+  top: 1153px;
+  width: 1179px;
+}
+
+.desktop-1 .card-assets-qi4kZC {
+  background-color: transparent;
+  height: 139px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 284px;
+}
+
+.desktop-1 .rectangle-123-2G4SDV {
+  background-color: var(--eerie-black);
+  height: 139px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 284px;
+}
+
+.desktop-1 .top-gainer-24h-i761144710617-2G4SDV {
+  background-color: transparent;
+  height: auto;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .usd-56734-i761144710618-2G4SDV {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 48px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .logobnb-2G4SDV {
+  background-color: transparent;
+  height: 28px;
+  left: 16px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 48px;
+  width: 28px;
+}
+
+.desktop-1 .ellipse-1-HrxK2a {
+  background-color: #f3ba2f;
+  border-radius: 14px;
+  height: 28px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 28px;
+}
+
+.desktop-1 .layer-2-HrxK2a {
+  background-color: transparent;
+  height: 20px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 20px;
+}
+
+.desktop-1 .binance-coin-i761144710620-2G4SDV {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 75px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .bnb-i761144710621-2G4SDV {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 99px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .influsion-2G4SDV {
+  background-color: transparent;
+  height: 24px;
+  left: 197px;
+  position: absolute;
+  top: 48px;
+  width: 71px;
+}
+
+.desktop-1 .bold-arrow-up-3-DZ4cxe {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 16px;
+}
+
+.desktop-1 .iconly-bold-arrow-up-3-JDqWQ6 {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 16px;
+}
+
+.desktop-1 .x11034-i761144710625-DZ4cxe {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .graph-2G4SDV {
+  background-color: transparent;
+  height: 28px;
+  left: 172px;
+  position: absolute;
+  top: 91px;
+  width: 97px;
+}
+
+.desktop-1 .card-assets-M31Gxx {
+  background-color: transparent;
+  height: 139px;
+  left: 298px;
+  position: absolute;
+  top: 0px;
+  width: 284px;
+}
+
+.desktop-1 .rectangle-123-XxCfCG {
+  background-color: var(--eerie-black);
+  height: 139px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 284px;
+}
+
+.desktop-1 .top-gainer-24h-i761244710617-XxCfCG {
+  background-color: transparent;
+  height: auto;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .usd-56734-i761244710618-XxCfCG {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 48px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .logoitc-XxCfCG {
+  background-color: transparent;
+  height: 28px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 48px;
+  width: 28px;
+}
+
+.desktop-1 .binance-coin-i761244710620-XxCfCG {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 75px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .bnb-i761244710621-XxCfCG {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 99px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .bnb-i761244710622-XxCfCG {
+  background-color: transparent;
+  color: #a5acce;
+  font-family: var(--font-family-roboto-medium);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 48px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .graph-XxCfCG {
+  background-color: transparent;
+  height: 29px;
+  left: 171px;
+  position: absolute;
+  top: 90px;
+  width: 98px;
+}
+
+.desktop-1 .card-assets-uL7ZwM {
+  background-color: transparent;
+  height: 139px;
+  left: 597px;
+  position: absolute;
+  top: 0px;
+  width: 284px;
+}
+
+.desktop-1 .rectangle-123-Nx6thU {
+  background-color: var(--eerie-black);
+  height: 139px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 284px;
+}
+
+.desktop-1 .top-gainer-24h-i761344710617-Nx6thU {
+  background-color: transparent;
+  height: auto;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .usd-56734-i761344710618-Nx6thU {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 48px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .logo-bitcoin-Nx6thU {
+  background-color: transparent;
+  height: 28px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 48px;
+  width: 28px;
+}
+
+.desktop-1 .binance-coin-i761344710620-Nx6thU {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 75px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .bnb-i761344710621-Nx6thU {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 99px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .influsion-Nx6thU {
+  background-color: transparent;
+  height: 24px;
+  left: 208px;
+  position: absolute;
+  top: 48px;
+  width: 60px;
+}
+
+.desktop-1 .bold-arrow-up-3-52TF0x {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 16px;
+}
+
+.desktop-1 .iconly-bold-arrow-up-3-AL6Vqj {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 16px;
+}
+
+.desktop-1 .x11034-i761344710625-52TF0x {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .graph-Nx6thU {
+  background-color: transparent;
+  height: 28px;
+  left: 172px;
+  position: absolute;
+  top: 91px;
+  width: 97px;
+}
+
+.desktop-1 .card-assets-dLDIlk {
+  background-color: transparent;
+  height: 139px;
+  left: 895px;
+  position: absolute;
+  top: 0px;
+  width: 284px;
+}
+
+.desktop-1 .rectangle-123-EaL3Pi {
+  background-color: var(--eerie-black);
+  height: 139px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 284px;
+}
+
+.desktop-1 .top-gainer-24h-i761444710617-EaL3Pi {
+  background-color: transparent;
+  height: auto;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .usd-56734-i761444710618-EaL3Pi {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 48px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .logoogn-EaL3Pi {
+  background-color: transparent;
+  height: 28px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 48px;
+  width: 28px;
+}
+
+.desktop-1 .binance-coin-i761444710620-EaL3Pi {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 75px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .bnb-i761444710621-EaL3Pi {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 99px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .influsion-EaL3Pi {
+  background-color: transparent;
+  height: 24px;
+  left: 209px;
+  position: absolute;
+  top: 48px;
+  width: 59px;
+}
+
+.desktop-1 .bold-arrow-up-3-OHxQhE {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 16px;
+}
+
+.desktop-1 .iconly-bold-arrow-up-3-B5NlpZ {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 16px;
+}
+
+.desktop-1 .x11034-i761444710625-OHxQhE {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .graph-EaL3Pi {
+  background-color: transparent;
+  height: 28px;
+  left: 172px;
+  position: absolute;
+  top: 91px;
+  width: 97px;
+}

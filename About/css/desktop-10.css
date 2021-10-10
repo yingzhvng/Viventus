@@ -1,0 +1,3070 @@
+/* screen - desktop-10 */
+
+.desktop-10 {
+  background-color: var(--black);
+  height: 8858px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-10 .bg-pattern-GIIPhy {
+  background-color: transparent;
+  height: 6970px;
+  left: -297px;
+  position: absolute;
+  top: 266px;
+  width: 1681px;
+}
+
+.desktop-10 .ellipse-6-Y6J2oZ {
+  background-color: transparent;
+  height: 1464px;
+  left: -24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1227px;
+  width: 1184px;
+}
+
+.desktop-10 .ellipse-7-Y6J2oZ {
+  background-color: transparent;
+  height: 1804px;
+  left: 127px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4461px;
+  width: 1456px;
+}
+
+.desktop-10 .group-8-Y6J2oZ {
+  background-color: transparent;
+  height: 226px;
+  left: 692px;
+  opacity: 0.4;
+  position: absolute;
+  top: 9px;
+  transform: rotate(-44.33deg);
+  width: 117px;
+}
+
+.desktop-10 .vector-4-xM44yn {
+  background-color: transparent;
+  height: 203px;
+  left: 2px;
+  position: absolute;
+  top: 11px;
+  transform: rotate(44.33deg);
+  width: 113px;
+}
+
+.desktop-10 .ellipse-5-xM44yn {
+  background-color: var(--chicago);
+  border-radius: 3.76px;
+  height: 8px;
+  left: 109px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+
+.desktop-10 .ellipse-7-xM44yn {
+  background-color: var(--chicago);
+  border-radius: 3.76px;
+  height: 8px;
+  left: 47px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 218px;
+  width: 8px;
+}
+
+.desktop-10 .ellipse-6-xM44yn {
+  background-color: var(--chicago);
+  border-radius: 3.76px;
+  height: 8px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 149px;
+  width: 8px;
+}
+
+.desktop-10 .group-14-Y6J2oZ {
+  background-color: transparent;
+  height: 153px;
+  left: 1564px;
+  opacity: 0.4;
+  position: absolute;
+  top: 2883px;
+  transform: rotate(37.06deg);
+  width: 79px;
+}
+
+.desktop-10 .vector-4-Vxx3j6 {
+  background-color: transparent;
+  height: 96px;
+  left: -23px;
+  position: absolute;
+  top: 28px;
+  transform: rotate(-37.06deg);
+  width: 125px;
+}
+
+.desktop-10 .ellipse-5-Vxx3j6 {
+  background-color: var(--star-dust);
+  border-radius: 2.54px;
+  height: 5px;
+  left: 74px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+
+.desktop-10 .ellipse-7-Vxx3j6 {
+  background-color: var(--star-dust);
+  border-radius: 2.54px;
+  height: 5px;
+  left: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 147px;
+  width: 5px;
+}
+
+.desktop-10 .ellipse-6-Vxx3j6 {
+  background-color: var(--star-dust);
+  border-radius: 2.54px;
+  height: 5px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 100px;
+  width: 5px;
+}
+
+.desktop-10 .group-16-Y6J2oZ {
+  background-color: transparent;
+  height: 153px;
+  left: 1453px;
+  opacity: 0.4;
+  position: absolute;
+  top: 3516px;
+  transform: rotate(-33.44deg);
+  width: 79px;
+}
+
+.desktop-10 .vector-4-M4xuwM {
+  background-color: transparent;
+  height: 149px;
+  left: 12px;
+  position: absolute;
+  top: 1px;
+  transform: rotate(33.44deg);
+  width: 55px;
+}
+
+.desktop-10 .ellipse-5-M4xuwM {
+  background-color: var(--gunsmoke);
+  border-radius: 2.54px;
+  height: 5px;
+  left: 74px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+
+.desktop-10 .ellipse-7-M4xuwM {
+  background-color: var(--gunsmoke);
+  border-radius: 2.54px;
+  height: 5px;
+  left: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 147px;
+  width: 5px;
+}
+
+.desktop-10 .ellipse-6-M4xuwM {
+  background-color: var(--gunsmoke);
+  border-radius: 2.54px;
+  height: 5px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 100px;
+  width: 5px;
+}
+
+.desktop-10 .group-15-Y6J2oZ {
+  background-color: transparent;
+  height: 144px;
+  left: 1552px;
+  opacity: 0.6;
+  position: absolute;
+  top: 2537px;
+  transform: rotate(148.68deg);
+  width: 76px;
+}
+
+.desktop-10 .vector-4-msALxi {
+  background-color: transparent;
+  height: 143px;
+  left: -9px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(-148.68deg);
+  width: 95px;
+}
+
+.desktop-10 .ellipse-5-msALxi {
+  background-color: var(--masala);
+  border-radius: 2.4px;
+  height: 5px;
+  left: 71px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 5px;
+}
+
+.desktop-10 .ellipse-7-msALxi {
+  background-color: var(--masala);
+  border-radius: 2.4px;
+  height: 5px;
+  left: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 139px;
+  width: 5px;
+}
+
+.desktop-10 .ellipse-6-msALxi {
+  background-color: var(--masala);
+  border-radius: 2.4px;
+  height: 5px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 11px;
+  width: 5px;
+}
+
+.desktop-10 .group-17-Y6J2oZ {
+  background-color: transparent;
+  height: 144px;
+  left: 608px;
+  opacity: 0.6;
+  position: absolute;
+  top: 3911px;
+  transform: rotate(78.17deg);
+  width: 76px;
+}
+
+.desktop-10 .vector-4-VpxxvV {
+  background-color: transparent;
+  height: 68px;
+  left: -36px;
+  position: absolute;
+  top: 38px;
+  transform: rotate(-78.17deg);
+  width: 149px;
+}
+
+.desktop-10 .ellipse-5-VpxxvV {
+  background-color: var(--sonic-silver);
+  border-radius: 2.4px;
+  height: 5px;
+  left: 71px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+
+.desktop-10 .ellipse-7-VpxxvV {
+  background-color: var(--sonic-silver);
+  border-radius: 2.4px;
+  height: 5px;
+  left: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 139px;
+  width: 5px;
+}
+
+.desktop-10 .ellipse-6-VpxxvV {
+  background-color: var(--sonic-silver);
+  border-radius: 2.4px;
+  height: 5px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 11px;
+  width: 5px;
+}
+
+.desktop-10 .group-18-Y6J2oZ {
+  background-color: transparent;
+  height: 215px;
+  left: 1506px;
+  opacity: 0.6;
+  position: absolute;
+  top: 4843px;
+  transform: rotate(133.44deg);
+  width: 113px;
+}
+
+.desktop-10 .vector-4-Cl16wH {
+  background-color: transparent;
+  height: 190px;
+  left: -29px;
+  position: absolute;
+  top: 12px;
+  transform: rotate(-133.44deg);
+  width: 173px;
+}
+
+.desktop-10 .ellipse-5-Cl16wH {
+  background-color: var(--sonic-silver);
+  border-radius: 3.59px;
+  height: 7px;
+  left: 106px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+
+.desktop-10 .ellipse-7-Cl16wH {
+  background-color: var(--sonic-silver);
+  border-radius: 3.59px;
+  height: 7px;
+  left: 47px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 208px;
+  width: 7px;
+}
+
+.desktop-10 .ellipse-6-Cl16wH {
+  background-color: var(--sonic-silver);
+  border-radius: 3.59px;
+  height: 7px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 7px;
+}
+
+.desktop-10 .group-19-Y6J2oZ {
+  background-color: transparent;
+  height: 131px;
+  left: 728px;
+  opacity: 0.6;
+  position: absolute;
+  top: 4928px;
+  transform: rotate(-117.50deg);
+  width: 69px;
+}
+
+.desktop-10 .vector-4-dXA9xM {
+  background-color: transparent;
+  height: 81px;
+  left: -32px;
+  position: absolute;
+  top: 25px;
+  transform: rotate(117.50deg);
+  width: 133px;
+}
+
+.desktop-10 .ellipse-5-dXA9xM {
+  background-color: var(--sonic-silver);
+  border-radius: 2.19px;
+  height: 4px;
+  left: 65px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.desktop-10 .ellipse-7-dXA9xM {
+  background-color: var(--sonic-silver);
+  border-radius: 2.19px;
+  height: 4px;
+  left: 29px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 127px;
+  width: 4px;
+}
+
+.desktop-10 .ellipse-6-dXA9xM {
+  background-color: var(--sonic-silver);
+  border-radius: 2.19px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 10px;
+  width: 4px;
+}
+
+.desktop-10 .group-20-Y6J2oZ {
+  background-color: transparent;
+  height: 297px;
+  left: 762px;
+  opacity: 0.6;
+  position: absolute;
+  top: 5512px;
+  transform: rotate(137.30deg);
+  width: 157px;
+}
+
+.desktop-10 .vector-4-V90Eet {
+  background-color: transparent;
+  height: 271px;
+  left: -35px;
+  position: absolute;
+  top: 12px;
+  transform: rotate(-137.30deg);
+  width: 229px;
+}
+
+.desktop-10 .ellipse-5-V90Eet {
+  background-color: var(--sonic-silver);
+  border-radius: 4.96px;
+  height: 10px;
+  left: 147px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 10px;
+}
+
+.desktop-10 .ellipse-7-V90Eet {
+  background-color: var(--sonic-silver);
+  border-radius: 4.96px;
+  height: 10px;
+  left: 65px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 288px;
+  width: 10px;
+}
+
+.desktop-10 .ellipse-6-V90Eet {
+  background-color: var(--sonic-silver);
+  border-radius: 4.96px;
+  height: 10px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 23px;
+  width: 10px;
+}
+
+.desktop-10 .group-21-Y6J2oZ {
+  background-color: transparent;
+  height: 231px;
+  left: 1415px;
+  opacity: 0.6;
+  position: absolute;
+  top: 6729px;
+  transform: rotate(-169.18deg);
+  width: 122px;
+}
+
+.desktop-10 .vector-4-HnlI5K {
+  background-color: transparent;
+  height: 213px;
+  left: 3px;
+  position: absolute;
+  top: 8px;
+  transform: rotate(169.18deg);
+  width: 117px;
+}
+
+.desktop-10 .ellipse-5-HnlI5K {
+  background-color: var(--sonic-silver);
+  border-radius: 3.85px;
+  height: 8px;
+  left: 114px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+
+.desktop-10 .ellipse-7-HnlI5K {
+  background-color: var(--sonic-silver);
+  border-radius: 3.85px;
+  height: 8px;
+  left: 51px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 223px;
+  width: 8px;
+}
+
+.desktop-10 .ellipse-6-HnlI5K {
+  background-color: var(--sonic-silver);
+  border-radius: 3.85px;
+  height: 8px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 8px;
+}
+
+.desktop-10 .group-12-Y6J2oZ {
+  background-color: transparent;
+  height: 111px;
+  left: 1287px;
+  opacity: 0.6;
+  position: absolute;
+  top: 772px;
+  transform: rotate(-101.93deg);
+  width: 59px;
+}
+
+.desktop-10 .vector-4-dts8oh {
+  background-color: transparent;
+  height: 57px;
+  left: 357px;
+  position: absolute;
+  top: 2080px;
+  transform: rotate(101.93deg);
+  width: 103px;
+}
+
+.desktop-10 .ellipse-5-dts8oh {
+  background-color: var(--tundora);
+  border-radius: 1.86px;
+  height: 4px;
+  left: 481px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2034px;
+  width: 4px;
+}
+
+.desktop-10 .ellipse-7-dts8oh {
+  background-color: var(--tundora);
+  border-radius: 1.86px;
+  height: 4px;
+  left: 409px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1947px;
+  width: 4px;
+}
+
+.desktop-10 .ellipse-6-dts8oh {
+  background-color: var(--tundora);
+  border-radius: 1.86px;
+  height: 4px;
+  left: 427px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2048px;
+  width: 4px;
+}
+
+.desktop-10 .ellipse-45-Y6J2oZ {
+  background-color: var(--fuscous-gray);
+  border-radius: 4.5px;
+  height: 9px;
+  left: 1445px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1974px;
+  width: 9px;
+}
+
+.desktop-10 .ellipse-46-Y6J2oZ {
+  background-color: var(--storm-dust-2);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 1331px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1897px;
+  width: 15px;
+}
+
+.desktop-10 .ellipse-47-Y6J2oZ {
+  background-color: var(--fuscous-gray);
+  border-radius: 4.5px;
+  height: 9px;
+  left: 557px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2358px;
+  width: 9px;
+}
+
+.desktop-10 .ellipse-48-Y6J2oZ {
+  background-color: var(--shark);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 604px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2395px;
+  width: 15px;
+}
+
+.desktop-10 .ellipse-8-Y6J2oZ {
+  background-color: transparent;
+  height: 949px;
+  left: 741px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3625px;
+  width: 770px;
+}
+
+.desktop-10 .footer-GIIPhy {
+  background-color: transparent;
+  height: 469px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8308px;
+  width: 1440px;
+}
+
+.desktop-10 .term-of-service-NCDRsz {
+  background-color: transparent;
+  height: 24px;
+  left: 1014px;
+  position: absolute;
+  top: 413px;
+  width: 272px;
+}
+
+.desktop-10 .term-of-service-xMJ3eO {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-10 .line-44-xMJ3eO {
+  background-color: transparent;
+  height: 24px;
+  left: 142px;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.desktop-10 .privacy-policy-xMJ3eO {
+  background-color: transparent;
+  height: auto;
+  left: 163px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-10 .viventus-all-rights-reserved-NCDRsz {
+  background-color: transparent;
+  height: auto;
+  left: 165px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 413px;
+  white-space: nowrap;
+  width: 405px;
+}
+
+.desktop-10 .line-5-NCDRsz {
+  background-color: transparent;
+  height: 1px;
+  left: 165px;
+  position: absolute;
+  top: 380px;
+  width: 1110px;
+}
+
+.desktop-10 .socmed-NCDRsz {
+  background-color: transparent;
+  height: 24px;
+  left: 164px;
+  position: absolute;
+  top: 229px;
+  width: 80px;
+}
+
+.desktop-10 .logo-facebook-jcWk3Z {
+  background-color: transparent;
+  height: 24px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.desktop-10 .logo-instagram-jcWk3Z {
+  background-color: transparent;
+  height: 24px;
+  left: 55px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.desktop-10 .twitter-logo-1-NCDRsz {
+  background-color: transparent;
+  height: 20px;
+  left: 288px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 230px;
+  width: 23px;
+}
+
+.desktop-10 .subscripton-NCDRsz {
+  background-color: transparent;
+  height: 183px;
+  left: 921px;
+  position: absolute;
+  top: 113px;
+  width: 358px;
+}
+
+.desktop-10 .form-eGqFmp {
+  background-color: var(--tuna-2);
+  border-radius: 100px;
+  height: 63px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 120px;
+  width: 354px;
+}
+
+.desktop-10 .enter-you-email-ss-i38769423947-qp9rAW {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: 228px;
+}
+
+.desktop-10 .button-qp9rAW {
+  background-color: transparent;
+  border-radius: 100px;
+  height: 47px;
+  left: 262px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 84px;
+}
+
+.desktop-10 .get-started-i38769413413472208-ZdNs68 {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-10 .subscribe-to-ge-ge-and-products-eGqFmp {
+  background-color: transparent;
+  color: #a3a3a3;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 48px;
+  width: 354px;
+}
+
+.desktop-10 .submit-for-updates-eGqFmp {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-10 .quick-link-NCDRsz {
+  background-color: transparent;
+  height: 168px;
+  left: 543px;
+  position: absolute;
+  top: 113px;
+  width: 262px;
+}
+
+.desktop-10 .link-list-6K3Hd8 {
+  background-color: transparent;
+  height: 120px;
+  left: 0px;
+  position: absolute;
+  top: 48px;
+  width: 260px;
+}
+
+.desktop-10 .link-1-QOkcAs {
+  background-color: transparent;
+  height: 120px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 194px;
+}
+
+.desktop-10 .home-OOxhtY {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-10 .technology-OOxhtY {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 48px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-10 .about-OOxhtY {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 96px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-10 .link-2-QOkcAs {
+  background-color: transparent;
+  height: 120px;
+  left: 194px;
+  position: absolute;
+  top: 0px;
+  width: 66px;
+}
+
+.desktop-10 .sign-up-Xaf04C {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-10 .login-Xaf04C {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 48px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-10 .services-Xaf04C {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 96px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-10 .quick-links-6K3Hd8 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-10 .logo-NCDRsz {
+  background-color: transparent;
+  height: 59px;
+  left: 164px;
+  position: absolute;
+  top: 130px;
+  width: 180px;
+}
+
+.desktop-10 .ai-powered-warwx6 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-10 .logo-warwx6 {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 176px;
+}
+
+.desktop-10 .cta-GIIPhy {
+  background-color: transparent;
+  height: 356px;
+  left: 100px;
+  position: absolute;
+  top: 7859px;
+  width: 1244px;
+}
+
+.desktop-10 .bg-Ark4wc {
+  background-color: transparent;
+  height: 356px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.desktop-10 .card-bg-Ark4wc {
+  background-color: #1d1d1dab;
+  height: 205px;
+  left: 84px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 80px;
+  width: 1070px;
+}
+
+.desktop-10 .title-Ark4wc {
+  background-color: transparent;
+  height: auto;
+  left: 333px;
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 152px;
+  white-space: nowrap;
+  width: 574px;
+}
+
+.desktop-10 .subtitle-Ark4wc {
+  background-color: transparent;
+  color: #828282;
+  font-family: var(--font-family-montserrat);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 263px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 102px;
+  white-space: nowrap;
+  width: 712px;
+}
+
+.desktop-10 .sign-up-Ark4wc {
+  background-color: transparent;
+  height: 47px;
+  left: 532px;
+  position: absolute;
+  top: 210px;
+  width: 177px;
+}
+
+.desktop-10 .rectangle-604-B3xAde {
+  background-color: var(--black);
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 175px;
+}
+
+.desktop-10 .sign-up-B3xAde {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: 82px;
+}
+
+.desktop-10 .ellipse-49-GIIPhy {
+  background-color: transparent;
+  height: 1840px;
+  left: -278px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6223px;
+  width: 1775px;
+}
+
+.desktop-10 .hand-phone-GIIPhy {
+  background-color: transparent;
+  height: 449px;
+  left: 100px;
+  overflow: hidden;
+  position: absolute;
+  top: 7175px;
+  width: 1138px;
+}
+
+.desktop-10 .hand-phone-1-jEADc3 {
+  background-color: transparent;
+  height: 546px;
+  left: 624px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 546px;
+}
+
+.desktop-10 .dont-believe-us-jEADc3 {
+  background-color: transparent;
+  height: auto;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 49.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 137px;
+  white-space: nowrap;
+  width: 577px;
+}
+
+.desktop-10 .community-btn-jEADc3 {
+  background-color: transparent;
+  height: 61px;
+  left: 232px;
+  position: absolute;
+  top: 279px;
+  width: 255px;
+}
+
+.desktop-10 .rectangle-605-XLLEMu {
+  background-color: transparent;
+  height: 61px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 253px;
+}
+
+.desktop-10 .join-our-community-XLLEMu {
+  background-color: transparent;
+  color: #8f8f8f;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 33.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-10 .check-out-our-m-t-recent-trades-jEADc3 {
+  background-color: transparent;
+  height: auto;
+  left: 197px;
+  letter-spacing: 0.00px;
+  line-height: 37.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 193px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-10 .group-22-jEADc3 {
+  background-color: transparent;
+  height: 155px;
+  left: 244px;
+  opacity: 0.6;
+  position: absolute;
+  top: 53px;
+  transform: rotate(-121.96deg);
+  width: 82px;
+}
+
+.desktop-10 .vector-4-2DxMCQ {
+  background-color: transparent;
+  height: 103px;
+  left: -36px;
+  position: absolute;
+  top: 26px;
+  transform: rotate(121.96deg);
+  width: 154px;
+}
+
+.desktop-10 .ellipse-5-2DxMCQ {
+  background-color: var(--sonic-silver);
+  border-radius: 2.58px;
+  height: 5px;
+  left: 77px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 5px;
+}
+
+.desktop-10 .ellipse-7-2DxMCQ {
+  background-color: var(--sonic-silver);
+  border-radius: 2.58px;
+  height: 5px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 150px;
+  width: 5px;
+}
+
+.desktop-10 .ellipse-6-2DxMCQ {
+  background-color: var(--sonic-silver);
+  border-radius: 2.58px;
+  height: 5px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 5px;
+}
+
+.desktop-10 .section-5-GIIPhy {
+  background-color: transparent;
+  height: 1050px;
+  left: 152px;
+  position: absolute;
+  top: 5919px;
+  width: 1137px;
+}
+
+.desktop-10 .auto-leverage-LpttBr {
+  background-color: transparent;
+  height: 427px;
+  left: 405px;
+  position: absolute;
+  top: 623px;
+  width: 329px;
+}
+
+.desktop-10 .comingsooncard-VBxp5m {
+  background-color: var(--licorice-2);
+  height: 427px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 325px;
+}
+
+.desktop-10 .coming-soon-VBxp5m {
+  background-color: transparent;
+  height: auto;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 249px;
+  width: 213px;
+}
+
+.desktop-10 .automated-crypt-everage-trading-VBxp5m {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 48px;
+  width: 279px;
+}
+
+.desktop-10 .auto-trade-LpttBr {
+  background-color: transparent;
+  height: 427px;
+  left: 0px;
+  position: absolute;
+  top: 120px;
+  width: 327px;
+}
+
+.desktop-10 .container-TNVOrM {
+  background-color: var(--licorice-2);
+  cursor: pointer;
+  height: 427px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 325px;
+}
+
+.desktop-10 .container-TNVOrM:hover {
+  background-color: #1C1C1C
+}
+
+.desktop-10 .sign-up-TNVOrM {
+  background-color: transparent;
+  height: 54px;
+  left: 58px;
+  position: absolute;
+  top: 323px;
+  width: 211px;
+}
+
+.desktop-10 .rectangle-139-OpWw1L {
+  background-color: var(--black);
+  height: 54px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 209px;
+}
+
+.desktop-10 .sign-up-OpWw1L {
+  background-color: transparent;
+  height: auto;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  width: auto;
+}
+
+.desktop-10 .item2-TNVOrM {
+  background-color: transparent;
+  height: 17px;
+  left: 70px;
+  position: absolute;
+  top: 217px;
+  width: 188px;
+}
+
+.desktop-10 .x100-minimum-balance-n88BCx {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 166px;
+}
+
+.desktop-10 .white-check-1-n88BCx {
+  background-color: transparent;
+  height: 17px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 14px;
+}
+
+.desktop-10 .item3-TNVOrM {
+  background-color: transparent;
+  height: 17px;
+  left: 70px;
+  position: absolute;
+  top: 252px;
+  width: 188px;
+}
+
+.desktop-10 .connect-via-api-keys-iPIfpl {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 166px;
+}
+
+.desktop-10 .white-check-2-iPIfpl {
+  background-color: transparent;
+  height: 17px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 14px;
+}
+
+.desktop-10 .item1-TNVOrM {
+  background-color: transparent;
+  height: 17px;
+  left: 70px;
+  position: absolute;
+  top: 182px;
+  width: 188px;
+}
+
+.desktop-10 .pay-by-trading-volume-zLL04J {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 166px;
+}
+
+.desktop-10 .white-check-1-zLL04J {
+  background-color: transparent;
+  height: 17px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 14px;
+}
+
+.desktop-10 .automated-crypt-cy-spot-trading-TNVOrM {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 42px;
+  width: 213px;
+}
+
+.desktop-10 .stock-market-LpttBr {
+  background-color: transparent;
+  height: 427px;
+  left: 810px;
+  position: absolute;
+  top: 120px;
+  width: 329px;
+}
+
+.desktop-10 .stockcardcontainer-Xefdwl {
+  background-color: var(--licorice-2);
+  cursor: pointer;
+  height: 427px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 325px;
+}
+
+.desktop-10 .stockcardcontainer-Xefdwl:hover {
+  background-color: #1C1C1C
+}
+
+.desktop-10 .stock-market-forecasts-Xefdwl {
+  background-color: transparent;
+  height: auto;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 57px;
+  width: 213px;
+}
+
+.desktop-10 .coming-soon-Xefdwl {
+  background-color: transparent;
+  height: auto;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 249px;
+  width: 213px;
+}
+
+.desktop-10 .crypto-forecast-LpttBr {
+  background-color: transparent;
+  height: 427px;
+  left: 405px;
+  position: absolute;
+  top: 120px;
+  width: 329px;
+}
+
+.desktop-10 .stockcardcontainer-BLu5xj {
+  background-color: var(--licorice-2);
+  cursor: pointer;
+  height: 427px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 325px;
+}
+
+.desktop-10 .stockcardcontainer-BLu5xj:hover {
+  background-color: #1C1C1C
+}
+
+.desktop-10 .cryptocurrency-price-forecasts-BLu5xj {
+  background-color: transparent;
+  height: auto;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 57px;
+  width: 213px;
+}
+
+.desktop-10 .coming-soon-BLu5xj {
+  background-color: transparent;
+  height: auto;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 249px;
+  width: 213px;
+}
+
+.desktop-10 .our-services-LpttBr {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 430px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-10 .section-4-GIIPhy {
+  background-color: transparent;
+  height: 388px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5202px;
+  width: 1438px;
+}
+
+.desktop-10 .security-xIxjiV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 97px;
+  left: 171px;
+  pointer-events: auto;
+  position: absolute;
+  top: 161px;
+  transition: all 0.2s ease;
+  width: 346px;
+}
+
+.desktop-10 .security-xIxjiV:hover {
+}
+
+.desktop-10 .rectangle-598-xkW3xL {
+  background-color: var(--black);
+  cursor: pointer;
+  height: 97px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 344px;
+}
+
+.desktop-10 .rectangle-598-xkW3xL:hover {
+  background-color: #151515
+}
+
+.desktop-10 .tri-fold-security-xkW3xL {
+  background-color: transparent;
+  height: auto;
+  left: 136px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 39px;
+  width: auto;
+}
+
+.desktop-10 .security-white-1-xkW3xL {
+  background-color: transparent;
+  height: 40px;
+  left: 78px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 40px;
+}
+
+.desktop-10 .support-xIxjiV {
+  background-color: transparent;
+  height: 97px;
+  left: 547px;
+  position: absolute;
+  top: 161px;
+  width: 346px;
+}
+
+.desktop-10 .rectangle-597-T1NQxX {
+  background-color: var(--black);
+  cursor: pointer;
+  height: 97px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 344px;
+}
+
+.desktop-10 .rectangle-597-T1NQxX:hover {
+  background-color: #151515
+}
+
+.desktop-10 .x247-community-support-T1NQxX {
+  background-color: transparent;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 37px;
+  width: auto;
+}
+
+.desktop-10 .customer-service-white-1-T1NQxX {
+  background-color: transparent;
+  height: 40px;
+  left: 40px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 40px;
+}
+
+.desktop-10 .api-keys-xIxjiV {
+  background-color: transparent;
+  height: 97px;
+  left: 923px;
+  position: absolute;
+  top: 161px;
+  width: 346px;
+}
+
+.desktop-10 .rectangle-599-c9fmx6 {
+  background-color: var(--black);
+  cursor: pointer;
+  height: 97px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 344px;
+}
+
+.desktop-10 .rectangle-599-c9fmx6:hover {
+  background-color: #151515
+}
+
+.desktop-10 .connect-via-api-key-c9fmx6 {
+  background-color: transparent;
+  height: auto;
+  left: 121px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 37px;
+  width: auto;
+}
+
+.desktop-10 .key-white-1-c9fmx6 {
+  background-color: transparent;
+  height: 40px;
+  left: 63px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 40px;
+}
+
+.desktop-10 .user-control-xIxjiV {
+  background-color: transparent;
+  height: 97px;
+  left: 171px;
+  position: absolute;
+  top: 291px;
+  width: 346px;
+}
+
+.desktop-10 .rectangle-599-CxIOzv {
+  background-color: var(--black);
+  cursor: pointer;
+  height: 97px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 344px;
+}
+
+.desktop-10 .rectangle-599-CxIOzv:hover {
+  background-color: #151515
+}
+
+.desktop-10 .full-user-controlled-CxIOzv {
+  background-color: transparent;
+  height: auto;
+  left: 121px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 39px;
+  width: auto;
+}
+
+.desktop-10 .user-white-1-CxIOzv {
+  background-color: transparent;
+  height: 40px;
+  left: 63px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 40px;
+}
+
+.desktop-10 .funds-xIxjiV {
+  background-color: transparent;
+  height: 97px;
+  left: 547px;
+  position: absolute;
+  top: 291px;
+  width: 346px;
+}
+
+.desktop-10 .rectangle-600-PxKvSL {
+  background-color: var(--black);
+  cursor: pointer;
+  height: 97px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 344px;
+}
+
+.desktop-10 .rectangle-600-PxKvSL:hover {
+  background-color: #151515
+}
+
+.desktop-10 .zero-access-to-funds-PxKvSL {
+  background-color: transparent;
+  height: auto;
+  left: 116px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 39px;
+  width: auto;
+}
+
+.desktop-10 .piggy-bank-white-1-PxKvSL {
+  background-color: transparent;
+  height: 40px;
+  left: 58px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 40px;
+}
+
+.desktop-10 .trading-volume-xIxjiV {
+  background-color: transparent;
+  height: 97px;
+  left: 923px;
+  position: absolute;
+  top: 291px;
+  width: 346px;
+}
+
+.desktop-10 .rectangle-601-MdrDWx {
+  background-color: var(--black);
+  cursor: pointer;
+  height: 97px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 344px;
+}
+
+.desktop-10 .rectangle-601-MdrDWx:hover {
+  background-color: #151515
+}
+
+.desktop-10 .pay-by-trading-volume-MdrDWx {
+  background-color: transparent;
+  height: auto;
+  left: 107px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 39px;
+  width: auto;
+}
+
+.desktop-10 .click-white-1-MdrDWx {
+  background-color: transparent;
+  height: 40px;
+  left: 49px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 40px;
+}
+
+.desktop-10 .a-gateway-to-si-rency-investing-xIxjiV {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 64px;
+  width: 1438px;
+}
+
+.desktop-10 .whatweoffer-xIxjiV {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 1438px;
+}
+
+.desktop-10 .section-6-GIIPhy {
+  background-color: transparent;
+  height: 641px;
+  left: 112px;
+  position: absolute;
+  top: 3583px;
+  width: 1245px;
+}
+
+.desktop-10 .ui-made-easy-section-3-5T5s62 {
+  background-color: transparent;
+  height: 422px;
+  left: 0px;
+  position: absolute;
+  top: 132px;
+  width: 633px;
+}
+
+.desktop-10 .user-interface-made-easy-3XWbYB {
+  background-color: transparent;
+  height: 422px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 645px;
+}
+
+.desktop-10 .user-interface-made-easy-W2Jjhg {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 551px;
+}
+
+.desktop-10 .dashboard-porta-e-user-friendly-W2Jjhg {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 58px;
+  width: 504px;
+}
+
+.desktop-10 .monitor-and-tra-ts-in-real-time-W2Jjhg {
+  background-color: transparent;
+  height: auto;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 159px;
+  width: 448px;
+}
+
+.desktop-10 .easily-integrat-ge-via-api-keys-W2Jjhg {
+  background-color: transparent;
+  height: auto;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 227px;
+  width: 447px;
+}
+
+.desktop-10 .observe-live-cr-y-market-prices-W2Jjhg {
+  background-color: transparent;
+  height: auto;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 313px;
+  width: 447px;
+}
+
+.desktop-10 .edit-your-prefe-with-one-click-W2Jjhg {
+  background-color: transparent;
+  height: auto;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 392px;
+  width: 530px;
+}
+
+.desktop-10 .check-white-1-W2Jjhg {
+  background-color: transparent;
+  height: 39px;
+  left: 38px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 150px;
+  width: 39px;
+}
+
+.desktop-10 .check-white-2-W2Jjhg {
+  background-color: transparent;
+  height: 39px;
+  left: 38px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 229px;
+  width: 39px;
+}
+
+.desktop-10 .check-white-3-W2Jjhg {
+  background-color: transparent;
+  height: 39px;
+  left: 38px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 304px;
+  width: 39px;
+}
+
+.desktop-10 .check-white-4-W2Jjhg {
+  background-color: transparent;
+  height: 39px;
+  left: 38px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 383px;
+  width: 39px;
+}
+
+.desktop-10 .section-3-img-5T5s62 {
+  background-color: transparent;
+  height: 641px;
+  left: 578px;
+  position: absolute;
+  top: 0px;
+  width: 669px;
+}
+
+.desktop-10 .dashboard-0OkMht {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 271px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 325px;
+  width: 158px;
+}
+
+.desktop-10 .ellipse-38-0OkMht {
+  background-color: var(--storm-dust-3);
+  border-radius: 7.04px;
+  height: 14px;
+  left: 395px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 14px;
+}
+
+.desktop-10 .ellipse-39-0OkMht {
+  background-color: var(--storm-dust-3);
+  border-radius: 3.52px;
+  height: 7px;
+  left: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 514px;
+  width: 7px;
+}
+
+.desktop-10 .ellipse-40-0OkMht {
+  background-color: var(--storm-dust-3);
+  border-radius: 3.52px;
+  height: 7px;
+  left: 463px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 41px;
+  width: 7px;
+}
+
+.desktop-10 .ellipse-41-0OkMht {
+  background-color: transparent;
+  height: 1510px;
+  left: -458px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -411px;
+  width: 1583px;
+}
+
+.desktop-10 .dashboard-1-0OkMht {
+  background-color: transparent;
+  height: 408px;
+  left: 61px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 159px;
+  width: 544px;
+}
+
+.desktop-10 .how-to-get-started-GIIPhy {
+  background-color: transparent;
+  height: 410px;
+  left: 0px;
+  position: absolute;
+  top: 4493px;
+  width: 1444px;
+}
+
+.desktop-10 .bg-9MIja4 {
+  background-color: transparent;
+  height: 1px;
+  left: 720px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 204px;
+  width: 1px;
+}
+
+.desktop-10 .steps-9MIja4 {
+  background-color: transparent;
+  height: 85px;
+  left: 215px;
+  position: absolute;
+  top: 244px;
+  width: 1008px;
+}
+
+.desktop-10 .step-1-Zkx2Yb {
+  background-color: transparent;
+  height: 85px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 264px;
+}
+
+.desktop-10 .deposit-assets-binance-account-DwriOx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: 260px;
+}
+
+.desktop-10 .step-1-DwriOx {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+
+.desktop-10 .check-white-1-DwriOx {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.desktop-10 .step-2-Zkx2Yb {
+  background-color: transparent;
+  height: 85px;
+  left: 374px;
+  position: absolute;
+  top: 0px;
+  width: 264px;
+}
+
+.desktop-10 .create-an-api-k-ect-to-viventus-uowuK4 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: 260px;
+}
+
+.desktop-10 .step-2-uowuK4 {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+
+.desktop-10 .check-white-1-uowuK4 {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.desktop-10 .step-3-Zkx2Yb {
+  background-color: transparent;
+  height: 85px;
+  left: 748px;
+  position: absolute;
+  top: 0px;
+  width: 264px;
+}
+
+.desktop-10 .enable-trading-and-thats-it-1GWFcg {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: 260px;
+}
+
+.desktop-10 .step-3-1GWFcg {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+
+.desktop-10 .check-white-1-1GWFcg {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.desktop-10 .x3-easy-steps-to-rt-auto-trading-9MIja4 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 121px;
+  width: 1440px;
+}
+
+.desktop-10 .how-to-get-started-9MIja4 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 63px;
+  width: 1440px;
+}
+
+.desktop-10 .section-3-GIIPhy {
+  background-color: transparent;
+  height: 1209px;
+  left: 0px;
+  position: absolute;
+  top: 2311px;
+  width: 1440px;
+}
+
+.desktop-10 .x2-pc-2-1-GcYNs6 {
+  background-color: transparent;
+  height: 773px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 436px;
+  width: 1440px;
+}
+
+.desktop-10 .compound-captial-GcYNs6 {
+  background-color: transparent;
+  height: 325px;
+  left: 101px;
+  position: absolute;
+  top: 0px;
+  width: 1242px;
+}
+
+.desktop-10 .learn-more-HVdOQA {
+  background-color: transparent;
+  color: #484848;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 581px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 309px;
+  width: auto;
+}
+
+.desktop-10 .designed-to-com-nd-your-capital-HVdOQA {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 1236px;
+}
+
+.desktop-10 .by-utilizing-vi-simultaneasouly-HVdOQA {
+  background-color: transparent;
+  height: auto;
+  left: 292px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 92px;
+  width: 652px;
+}
+
+.desktop-10 .section-2-GIIPhy {
+  background-color: transparent;
+  height: 784px;
+  left: 101px;
+  position: absolute;
+  top: 1215px;
+  width: 1256px;
+}
+
+.desktop-10 .section-2-ai-hand-1-0QyZNS {
+  background-color: transparent;
+  height: 784px;
+  left: 482px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 774px;
+}
+
+.desktop-10 .aboutsection-0QyZNS {
+  background-color: transparent;
+  height: 524px;
+  left: 0px;
+  position: absolute;
+  top: 160px;
+  width: 581px;
+}
+
+.desktop-10 .about-viventus-FcNlnY {
+  background-color: transparent;
+  height: 464px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 587px;
+}
+
+.desktop-10 .at-viventus-we-rading-platform-HSYhdw {
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 139px;
+  width: 579px;
+}
+
+.desktop-10 .span0-ZEmPHE {
+  line-height: 25.2px;
+}
+
+.desktop-10 .developed-by-bi-st-technologies-HSYhdw {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 61px;
+  width: 355px;
+}
+
+.desktop-10 .about-viventus-ai-HSYhdw {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 408px;
+}
+
+.desktop-10 .learn-more-button-FcNlnY {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  position: absolute;
+  top: 503px;
+  width: 83px;
+}
+
+.desktop-10 .learn-more-6sS3lj {
+  background-color: transparent;
+  color: #484848;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0px;
+  width: 81px;
+}
+
+.desktop-10 .boxes-GIIPhy {
+  background-color: transparent;
+  display: block;
+  height: 147px;
+  left: 103px;
+  position: absolute;
+  top: 874px;
+  width: 1234px;
+  opacity: 0;
+transform: translate(-25px, 0);
+}
+
+.desktop-10 .boxes-GIIPhy.bp1-animate-enter {
+  animation: bp1-animate-enter-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+transform: translate(-25px, 0);
+}
+
+@keyframes bp1-animate-enter-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.desktop-10 .box-1-O8FdRn {
+  background-color: transparent;
+  height: 146px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 236px;
+}
+
+.desktop-10 .price-forecasting-dimensions-Xex73W {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 86px;
+  width: 197px;
+}
+
+.desktop-10 .x6-Xex73W {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.desktop-10 .box-2-O8FdRn {
+  background-color: transparent;
+  height: 146px;
+  left: 334px;
+  position: absolute;
+  top: 1px;
+  width: 236px;
+}
+
+.desktop-10 .artificial-inte-igence-networks-McbxeI {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 86px;
+  width: 197px;
+}
+
+.desktop-10 .x3-McbxeI {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.desktop-10 .box-3-O8FdRn {
+  background-color: transparent;
+  height: 146px;
+  left: 668px;
+  position: absolute;
+  top: 0px;
+  width: 236px;
+}
+
+.desktop-10 .digital-currenc-recast-channels-ze7rnF {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 86px;
+  width: 197px;
+}
+
+.desktop-10 .x8-ze7rnF {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.desktop-10 .box-4-O8FdRn {
+  background-color: transparent;
+  height: 146px;
+  left: 1002px;
+  position: absolute;
+  top: 0px;
+  width: 236px;
+}
+
+.desktop-10 .trading-signals-excecuted-5BYlJR {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 86px;
+  width: 197px;
+}
+
+.desktop-10 .x145-5BYlJR {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.desktop-10 .hero-GIIPhy {
+  background-color: transparent;
+  display: block;
+  height: 459px;
+  left: 83px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 272px;
+  width: 1265px;
+  opacity: 0;
+transform: translate(-25px, 0);
+}
+
+.desktop-10 .hero-GIIPhy.bp1-animate-enter1 {
+  animation: bp1-animate-enter1-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+transform: translate(-25px, 0);
+}
+
+@keyframes bp1-animate-enter1-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.desktop-10 .hero-landing-cover-1-KqxHZO {
+  background-color: transparent;
+  height: 636px;
+  left: 492px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -86px;
+  width: 832px;
+}
+
+.desktop-10 .plus-KqxHZO {
+  background-color: transparent;
+  height: 29px;
+  left: 425px;
+  position: absolute;
+  top: 294px;
+  width: 29px;
+}
+
+.desktop-10 .line-59-6w5aKC {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 14px;
+  width: 29px;
+}
+
+.desktop-10 .line-60-6w5aKC {
+  background-color: transparent;
+  height: 29px;
+  left: 13px;
+  position: absolute;
+  top: 0px;
+  width: 2px;
+}
+
+.desktop-10 .bg-GIIPhy {
+  background-color: transparent;
+  height: 1033px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-10 .hero-heading-GIIPhy {
+  background-color: transparent;
+  display: block;
+  height: 281px;
+  left: 101px;
+  position: absolute;
+  top: 382px;
+  width: 655px;
+  opacity: 0;
+transform: translate(-25px, 0);
+}
+
+.desktop-10 .hero-heading-GIIPhy.bp1-animate-enter2 {
+  animation: bp1-animate-enter2-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+transform: translate(-25px, 0);
+}
+
+@keyframes bp1-animate-enter2-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.desktop-10 .sign-up-0xxJGg {
+  background-color: transparent;
+  height: 44px;
+  left: 208px;
+  position: absolute;
+  top: 237px;
+  width: 166px;
+}
+
+.desktop-10 .sign-up-button-Va5flD {
+  background-color: #1f1f1f;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 164px;
+}
+
+.desktop-10 .sign-up-Va5flD {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 77px;
+}
+
+.desktop-10 .learn-more-0xxJGg {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 237px;
+  width: 164px;
+}
+
+.desktop-10 .learn-more-button-1CxNP3 {
+  background-color: #1f1f1f;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 164px;
+}
+
+.desktop-10 .learn-more-1CxNP3 {
+  background-color: transparent;
+  color: #f4f4f4;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 81px;
+}
+
+.desktop-10 .powered-by-mach-nd-your-capital-0xxJGg {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 111px;
+  width: 443px;
+}
+
+.desktop-10 .next-generation-rading-platform-0xxJGg {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 651px;
+}
+
+.desktop-10 .header-GIIPhy {
+  background-color: transparent;
+  height: 148px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-10 .nav-bar-GtAPFv {
+  background-color: transparent;
+  height: 42px;
+  left: 102px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 67px;
+  width: 1240px;
+}
+
+.desktop-10 .sign-up-jzMvww {
+  background-color: transparent;
+  height: 42px;
+  left: 1142px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 98px;
+}
+
+.desktop-10 .sign-up-FxIzvn {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 98px;
+}
+
+.desktop-10 .sign-up-yIXRKB {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: auto;
+}
+
+.desktop-10 .login-jzMvww {
+  background-color: transparent;
+  height: 42px;
+  left: 1029px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 98px;
+}
+
+.desktop-10 .login-sxFH2Q {
+  background-color: var(--heavy-metal);
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 98px;
+}
+
+.desktop-10 .login-Z63UPs {
+  background-color: transparent;
+  height: auto;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: auto;
+}
+
+.desktop-10 .services-jzMvww {
+  background-color: transparent;
+  height: auto;
+  left: 596px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: auto;
+}
+
+.desktop-10 .about-jzMvww {
+  background-color: transparent;
+  height: auto;
+  left: 731px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: auto;
+}
+
+.desktop-10 .technology-jzMvww {
+  background-color: transparent;
+  height: auto;
+  left: 438px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: auto;
+}
+
+.desktop-10 .logo-jzMvww {
+  background-color: transparent;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 176px;
+}

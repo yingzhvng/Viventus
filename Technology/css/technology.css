@@ -1,0 +1,316 @@
+/* screen - iphone-13-pro-max-1 */
+
+.iphone-13-pro-max-1 {
+  background-color: #000000;
+  height: 579px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.iphone-13-pro-max-1 .nav-bar-wgzAs5 {
+  background-color: transparent;
+  height: 149px;
+  left: 50px;
+  position: absolute;
+  top: -26px;
+  width: 328px;
+}
+
+.iphone-13-pro-max-1 .logo-yW15IY {
+  background-color: transparent;
+  height: 149px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 149px;
+}
+
+.iphone-13-pro-max-1 .burger-menu-yW15IY {
+  background-color: transparent;
+  height: 8px;
+  left: 310px;
+  position: absolute;
+  top: 70px;
+  width: 18px;
+}
+
+.iphone-13-pro-max-1 .line-56-X8XEhi {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 18px;
+}
+
+.iphone-13-pro-max-1 .line-57-X8XEhi {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 4px;
+  width: 18px;
+}
+
+.iphone-13-pro-max-1 .line-58-X8XEhi {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 8px;
+  width: 18px;
+}
+
+.iphone-13-pro-max-1 .headeer-wgzAs5 {
+  background-color: transparent;
+  height: 80px;
+  left: 83px;
+  position: absolute;
+  top: 209px;
+  width: 266px;
+}
+
+.iphone-13-pro-max-1 .coming-soon-KbSMxZ {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.iphone-13-pro-max-1 .hold-on-were-almost-done-KbSMxZ {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  text-align: left;
+  top: 58px;
+  width: auto;
+}
+/* screen - technology */
+
+.technology {
+  background-color: #000000;
+  height: 714px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.technology .header-ev0xBk {
+  background-color: transparent;
+  height: 148px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.technology .nav-bar-0VGcQV {
+  background-color: transparent;
+  height: 42px;
+  left: 102px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 67px;
+  width: 1240px;
+}
+
+.technology .sign-up-x7uRuB {
+  background-color: transparent;
+  height: 42px;
+  left: 1142px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 98px;
+}
+
+.technology .sign-up-DUFX2x {
+  background-color: transparent;
+  border: 1px solid #3a3a3a;
+  height: 42px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 98px;
+}
+
+.technology .sign-up-gCboOH {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: auto;
+}
+
+.technology .login-x7uRuB {
+  background-color: transparent;
+  height: 42px;
+  left: 1029px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 98px;
+}
+
+.technology .login-HrmZox {
+  background-color: #2b2b2b;
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 98px;
+}
+
+.technology .login-8raF19 {
+  background-color: transparent;
+  height: auto;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: auto;
+}
+
+.technology .services-x7uRuB {
+  background-color: transparent;
+  height: auto;
+  left: 596px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: auto;
+}
+
+.technology .about-x7uRuB {
+  background-color: transparent;
+  height: auto;
+  left: 731px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: auto;
+}
+
+.technology .technology-x7uRuB {
+  background-color: transparent;
+  height: auto;
+  left: 438px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: auto;
+}
+
+.technology .logo-x7uRuB {
+  background-color: transparent;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 176px;
+}
+
+.technology .headeer-ev0xBk {
+  background-color: transparent;
+  height: 80px;
+  left: 567px;
+  position: absolute;
+  top: 282px;
+  width: 266px;
+}
+
+.technology .coming-soon-CLBxCt {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.technology .hold-on-were-almost-done-CLBxCt {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  text-align: left;
+  top: 58px;
+  width: auto;
+}
+@media screen and (max-width: 1439px) {
+  .screen.technology { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.iphone-13-pro-max-1 { 
+    display: none;
+   }
+}

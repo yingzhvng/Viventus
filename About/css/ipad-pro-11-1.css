@@ -1,0 +1,203 @@
+/* screen - ipad-pro-11-1 */
+
+.ipad-pro-11-1 {
+  background-color: var(--black);
+  height: 725px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 834px;
+}
+
+.ipad-pro-11-1 .nav-bar-I79TRs {
+  background-color: transparent;
+  height: 149px;
+  left: 36px;
+  position: absolute;
+  top: -26px;
+  width: 743px;
+}
+
+.ipad-pro-11-1 .logo-IVOWro {
+  background-color: transparent;
+  height: 149px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 149px;
+}
+
+.ipad-pro-11-1 .burger-menu-IVOWro {
+  background-color: transparent;
+  height: 8px;
+  left: 725px;
+  position: absolute;
+  top: 70px;
+  width: 18px;
+}
+
+.ipad-pro-11-1 .line-56-5xJYgS {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 18px;
+}
+
+.ipad-pro-11-1 .line-57-5xJYgS {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 4px;
+  width: 18px;
+}
+
+.ipad-pro-11-1 .line-58-5xJYgS {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 8px;
+  width: 18px;
+}
+
+.ipad-pro-11-1 .were-working-ha-best-experiene-I79TRs {
+  background-color: transparent;
+  color: var(--white-2);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 182px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 336px;
+  width: 469px;
+}
+
+.ipad-pro-11-1 .coming-soon-I79TRs {
+  background-color: transparent;
+  height: auto;
+  left: 340px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 279px;
+  width: auto;
+}
+/* screen - iphone-13-pro-max-1 */
+
+.iphone-13-pro-max-1 {
+  background-color: var(--black);
+  height: 552px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.iphone-13-pro-max-1 .nav-bar-wgzAs5 {
+  background-color: transparent;
+  height: 26px;
+  left: 31px;
+  position: absolute;
+  top: 26px;
+  width: 367px;
+}
+
+.iphone-13-pro-max-1 .logo-yW15IY {
+  background-color: transparent;
+  height: 6px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 118px;
+}
+
+.iphone-13-pro-max-1 .burger-menu-yW15IY {
+  background-color: transparent;
+  height: 8px;
+  left: 349px;
+  position: absolute;
+  top: 18px;
+  width: 18px;
+}
+
+.iphone-13-pro-max-1 .line-56-X8XEhi {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 18px;
+}
+
+.iphone-13-pro-max-1 .line-57-X8XEhi {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 4px;
+  width: 18px;
+}
+
+.iphone-13-pro-max-1 .line-58-X8XEhi {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 8px;
+  width: 18px;
+}
+
+.iphone-13-pro-max-1 .were-working-ha-best-experiene-wgzAs5 {
+  background-color: transparent;
+  color: var(--white-2);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 299px;
+  width: 325px;
+}
+
+.iphone-13-pro-max-1 .coming-soon-wgzAs5 {
+  background-color: transparent;
+  height: auto;
+  left: 130px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 242px;
+  width: auto;
+}
+@media screen and (max-width: 833px) {
+  .screen.ipad-pro-11-1 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 834px) {
+  .screen.iphone-13-pro-max-1 { 
+    display: none;
+   }
+}
